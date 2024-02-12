@@ -1,0 +1,522 @@
+{
+  "builder-options": {
+    "configID": "579e5a",
+    "services": [
+      {
+        "service_id": "235",
+        "service_component_name": "service-analytics",
+        "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+        "enable": false,
+        "params": {
+          "app_id": "618009540",
+          "store_id": "H5",
+          "store_id_platform": "",
+          "plugin_version": "2.0.3_2.2.1"
+        }
+      }
+    ]
+  },
+  "__version__": "3.0.7",
+  "builder": {
+    "taskOptionsMap": {
+      "1638872765050": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1638873001059": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1638877151642": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1639147149350": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1639147286920": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1639753780311": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640010804576": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640080993477": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640082724523": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640089089063": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640090571468": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640092093890": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640092943056": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640177731403": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640188341533": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640929032244": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640932112384": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1640933504265": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1641299293813": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1641559167039": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1641559196500": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1641564422162": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1641564474365": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1641800058199": {
+        "configID": "194f00",
+        "services": [],
+        "__version__": "1.0.0"
+      },
+      "1641801655566": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1641801739512": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": true,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1641802124838": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1641977750551": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1642571734018": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658144932987": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658212293047": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658214642422": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658292324283": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658295256060": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658297050570": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658298915713": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658300020065": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658301849993": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1658303086337": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1659073377505": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1659076977137": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      },
+      "1659103221728": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ],
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4",
+    "options": {
+      "web-desktop": {
+        "configID": "194f00",
+        "services": []
+      },
+      "android": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ]
+      },
+      "web-mobile": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5",
+              "store_id_platform": "",
+              "plugin_version": "2.0.3_2.2.1"
+            }
+          }
+        ]
+      },
+      "qtt": {
+        "configID": "194f00",
+        "services": []
+      },
+      "ohos": {
+        "configID": "579e5a",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "C:\\Users\\Asus\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+            "enable": false,
+            "params": {
+              "app_id": "618009540",
+              "store_id": "H5"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

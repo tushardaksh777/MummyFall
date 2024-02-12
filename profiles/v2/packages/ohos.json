@@ -1,0 +1,20 @@
+{
+  "__version__": "1.0.0",
+  "builder": {
+    "options": {
+      "ohos": {
+        "packageName": "com.cocos.ohos",
+        "apiLevel": "5",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "renderBackEnd": {
+          "gles3": true
+        }
+      }
+    }
+  }
+}

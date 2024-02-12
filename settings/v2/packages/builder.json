@@ -1,0 +1,23 @@
+{
+  "__version__": "1.3.7",
+  "splash-setting": {
+    "totalTime": 1000,
+    "watermarkLocation": "default",
+    "logo": {
+      "type": "custom",
+      "image": "C:\\Users\\Asus\\Documents\\GameTathya\\Game-Street-Android\\game_street\\assets\\imgs\\logo.png"
+    },
+    "background": {
+      "type": "color",
+      "color": {
+        "x": 0.23921568627450981,
+        "y": 0.23921568627450981,
+        "z": 0.23921568627450981,
+        "w": 1
+      }
+    }
+  },
+  "textureCompressConfig": {
+    "genMipmaps": false
+  }
+}

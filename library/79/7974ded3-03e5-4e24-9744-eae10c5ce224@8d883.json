@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.Material",
+  "_name": "lambert1",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "c8f66d17-351a-48da-a12c-0212d28575c4",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_ALBEDO_MAP": true
+    }
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {}
+    }
+  ],
+  "_props": [
+    {
+      "mainTexture": {
+        "__uuid__": "7974ded3-03e5-4e24-9744-eae10c5ce224@05da8",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "metallic": 0.4000000059604645,
+      "roughness": 0.30151134729385376,
+      "occlusion": 0
+    }
+  ]
+}

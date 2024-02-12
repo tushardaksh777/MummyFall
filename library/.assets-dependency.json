@@ -1,0 +1,389 @@
+{
+  "uuid": {
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Base.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Ball.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Black.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\White.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\red-001.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\white.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Yellow.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\BL.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Fire.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Lava Material.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Lava Material-001.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Sand.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Sand-001.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Tower.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Floor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\BL.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Black.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Fire.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Floor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Lava Material.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Sand.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Tower.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\white.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Yellow.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\BL.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Black.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Fire.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Floor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Lava Material.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Sand.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Tower.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\white.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Yellow.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Black.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\BL.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Fire.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Floor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Lava Material.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Red.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Sand.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Tower.mtl": [
+      "b1418f15-2daa-478e-9962-a7d83ac29201"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\white.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Yellow.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Jumping Up.fbx@0a1ef": [
+      "N:\\COCOS Projects\\Helix\\assets\\Material\\9615.jpg"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Jumping Up.fbx@05da8": [
+      "N:\\COCOS Projects\\Helix\\assets\\Material\\9615.jpg"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Shader\\LavaShader.effect": [
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\general-vs.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "N:\\Cocos editor\\CocosCreator-v3.3.2-win32-100820\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\general-vs.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\input-standard.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\decode-standard.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\decode-base.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\common.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\morph.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-skinning.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\skinning-lbs.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-global.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-local-batch.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-local.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-fog-vs.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-fog-base.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-shadow.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\packing.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\unlit-fs.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\output.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\gamma.chunk",
+      "N:\\COCOS Projects\\Helix\\assets\\chunks\\cc-fog-fs.chunk"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Mutant Dying.fbx@0a1ef": [
+      "N:\\COCOS Projects\\Helix\\assets\\Material\\9615.jpg"
+    ],
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Mutant Dying.fbx@05da8": [
+      "N:\\COCOS Projects\\Helix\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Jumping Up.fbx@0a1ef": [
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Jumping Up.fbx@05da8": [
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Mutant Dying.fbx@0a1ef": [
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Mutant Dying.fbx@05da8": [
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Shader\\LavaShader.effect": [
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\general-vs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\general-vs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\input-standard.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\decode-standard.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\decode-base.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\common.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\morph.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-skinning.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\skinning-lbs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-global.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-local-batch.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-local.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-fog-vs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-fog-base.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-shadow.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\packing.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\unlit-fs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\output.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\gamma.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\chunks\\cc-fog-fs.chunk"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Jumping Up.fbx@0a1ef": [
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Jumping Up.fbx@05da8": [
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Mutant Dying.fbx@0a1ef": [
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Mutant Dying.fbx@05da8": [
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\9615.jpg"
+    ],
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Shader\\LavaShader.effect": [
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\general-vs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "N:\\CocosDashboard\\resources\\.editors\\Creator\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\general-vs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\input-standard.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\decode-standard.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\decode-base.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\common.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\morph.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-skinning.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\skinning-lbs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-global.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-local-batch.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-local.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-fog-vs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-fog-base.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-shadow.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\packing.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\unlit-fs.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\output.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\gamma.chunk",
+      "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\chunks\\cc-fog-fs.chunk"
+    ],
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Shader\\LavaShader.effect": [
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\main-functions\\general-vs.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\input-standard.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\decode-base.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\unpack.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\morph.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\skinning.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\local-batch.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-base.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\effect\\fog.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\data\\packing.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unlit-fs.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\output.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\color\\gamma.chunk",
+      "D:\\CocosEDitor\\Creator\\3.8.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\legacy\\fog-fs.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\main-functions\\general-vs.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\input-standard.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\decode-standard.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\decode-base.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\common\\common-define.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\common\\data\\unpack.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\morph.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\functionalities\\morph-animation.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\uniforms\\cc-morph.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\skinning.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\uniforms\\cc-skinning.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\functionalities\\skinning-animation-lbs.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\local-batch.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\uniforms\\cc-local-batched.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\functionalities\\world-transform.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\fog-vs.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\fog-base.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\functionalities\\fog.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\common\\effect\\fog.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\shadow-map-vs.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\uniforms\\cc-shadow.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\shadow-map-base.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\functionalities\\shadow-map.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\uniforms\\cc-csm.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\common\\math\\coordinates.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\builtin\\uniforms\\cc-shadow-map.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\common\\data\\packing.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\common\\shadow\\native-pcf.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\unlit-fs.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\output.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\common\\color\\gamma.chunk",
+      "E:\\Cocos_Projects\\MummyFall\\assets\\chunks\\legacy\\fog-fs.chunk"
+    ]
+  }
+}

@@ -1,0 +1,1733 @@
+{
+  "__version__": "1.3.7",
+  "log": {
+    "level": 2
+  },
+  "common": {
+    "outputName": "android-003",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android",
+    "scenes": [
+      {
+        "url": "db://assets/Scene/scene.scene",
+        "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+        "inBundle": false
+      }
+    ],
+    "buildPath": "project://build",
+    "sourceMaps": true,
+    "mainBundleIsRemote": false,
+    "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+    "replaceSplashScreen": true,
+    "experimentalEraseModules": true,
+    "debug": false,
+    "name": "MummyFall"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1638872765050": {
+        "id": "1638872765050",
+        "progress": 1,
+        "state": "failure",
+        "message": "12-7-2021 15:56 build failed!Can’t find the Android NDK/SDK path, please go to Preferences -> External Programs to set",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "12-7-2021 15:56",
+        "dirty": false
+      },
+      "1638873001059": {
+        "id": "1638873001059",
+        "progress": 1,
+        "state": "success",
+        "message": "12-7-2021 16:03 run package N:\\COCOS Projects\\Helix\\build\\android-001 success!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-001",
+          "useSplashScreen": true
+        },
+        "time": "12-7-2021 16:03",
+        "dirty": false
+      },
+      "1638877151642": {
+        "id": "1638877151642",
+        "progress": 1,
+        "state": "success",
+        "message": "12-7-2021 17:11 Build success in 159712 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "useSplashScreen": true
+        },
+        "time": "12-7-2021 17:09",
+        "dirty": false
+      },
+      "1639147149350": {
+        "id": "1639147149350",
+        "progress": 1,
+        "state": "success",
+        "message": "12-10-2021 20:09 Build success in 20946 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "WebExport",
+          "useSplashScreen": true
+        },
+        "time": "12-10-2021 20:09",
+        "dirty": false
+      },
+      "1639147286920": {
+        "id": "1639147286920",
+        "progress": 1,
+        "state": "success",
+        "message": "12-10-2021 20:11 Build success in 12837 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-002",
+          "useSplashScreen": true
+        },
+        "time": "12-10-2021 20:11",
+        "dirty": false
+      },
+      "1639753780311": {
+        "id": "1639753780311",
+        "progress": 1,
+        "state": "success",
+        "message": "12-17-2021 20:41 Build success in 110680 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "12-17-2021 20:39",
+        "dirty": false
+      },
+      "1640010804576": {
+        "id": "1640010804576",
+        "progress": 1,
+        "state": "success",
+        "message": "12-20-2021 20:03 Build success in 11805 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-002",
+          "useSplashScreen": true
+        },
+        "time": "12-20-2021 20:03",
+        "dirty": false
+      },
+      "1640080993477": {
+        "id": "1640080993477",
+        "progress": 1,
+        "state": "success",
+        "message": "12-21-2021 15:33 Build success in 14822 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-003",
+          "useSplashScreen": true
+        },
+        "time": "12-21-2021 15:33",
+        "dirty": false
+      },
+      "1640082724523": {
+        "id": "1640082724523",
+        "progress": 1,
+        "state": "failure",
+        "message": "12-21-2021 16:02 make package N:\\COCOS Projects\\Helix\\build\\android-004 failed!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-004",
+          "useSplashScreen": true
+        },
+        "time": "12-21-2021 16:02",
+        "dirty": false
+      },
+      "1640089089063": {
+        "id": "1640089089063",
+        "progress": 1,
+        "state": "success",
+        "message": "12-21-2021 17:48 Build success in 15542 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-005",
+          "useSplashScreen": true
+        },
+        "time": "12-21-2021 17:48",
+        "dirty": false
+      },
+      "1640090571468": {
+        "id": "1640090571468",
+        "progress": 1,
+        "state": "success",
+        "message": "12-21-2021 18:13 Build success in 12213 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b"
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2"
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef"
+            }
+          ],
+          "outputName": "android-006",
+          "useSplashScreen": true
+        },
+        "time": "12-21-2021 18:12",
+        "dirty": false
+      },
+      "1640092093890": {
+        "id": "1640092093890",
+        "progress": 1,
+        "state": "success",
+        "message": "12-21-2021 18:38 Build success in 19398 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-007",
+          "useSplashScreen": true
+        },
+        "time": "12-21-2021 18:38",
+        "dirty": false
+      },
+      "1640092943056": {
+        "id": "1640092943056",
+        "progress": 1,
+        "state": "success",
+        "message": "12-21-2021 18:52 Build success in 13071 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-008",
+          "useSplashScreen": true
+        },
+        "time": "12-21-2021 18:52",
+        "dirty": false
+      },
+      "1640177731403": {
+        "id": "1640177731403",
+        "progress": 1,
+        "state": "success",
+        "message": "12-22-2021 18:25 Build success in 23710 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-009",
+          "useSplashScreen": true
+        },
+        "time": "12-22-2021 18:25",
+        "dirty": false
+      },
+      "1640188341533": {
+        "id": "1640188341533",
+        "progress": 1,
+        "state": "success",
+        "message": "12-22-2021 21:22 Build success in 12967 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-010",
+          "useSplashScreen": true
+        },
+        "time": "12-22-2021 21:22",
+        "dirty": false
+      },
+      "1640929032244": {
+        "id": "1640929032244",
+        "progress": 1,
+        "state": "success",
+        "message": "12-31-2021 11:08 Build success in 101952 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "12-31-2021 11:07",
+        "dirty": false
+      },
+      "1640932112384": {
+        "id": "1640932112384",
+        "progress": 1,
+        "state": "success",
+        "message": "12-31-2021 11:58 Build success in 13246 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-001",
+          "useSplashScreen": true
+        },
+        "time": "12-31-2021 11:58",
+        "dirty": false
+      },
+      "1640933504265": {
+        "id": "1640933504265",
+        "progress": 1,
+        "state": "success",
+        "message": "12-31-2021 12:21 Build success in 12919 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-002",
+          "useSplashScreen": true
+        },
+        "time": "12-31-2021 12:21",
+        "dirty": false
+      },
+      "1641299293813": {
+        "id": "1641299293813",
+        "progress": 1,
+        "state": "success",
+        "message": "1-4-2022 17:58 Build success in 14797 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "1-4-2022 17:58",
+        "dirty": false
+      },
+      "1641559167039": {
+        "id": "1641559167039",
+        "progress": 1,
+        "state": "success",
+        "message": "1-7-2022 18:09 Build success in 21083 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-001",
+          "useSplashScreen": true
+        },
+        "time": "1-7-2022 18:09",
+        "dirty": false
+      },
+      "1641559196500": {
+        "id": "1641559196500",
+        "progress": 1,
+        "state": "success",
+        "message": "1-7-2022 18:13 Build success in 195741 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "web-mobile",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "useSplashScreen": true
+        },
+        "time": "1-7-2022 18:09",
+        "dirty": false
+      },
+      "1641564422162": {
+        "id": "1641564422162",
+        "progress": 1,
+        "state": "success",
+        "message": "1-7-2022 19:37 Build success in 39715 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "web-mobile",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-001",
+          "useSplashScreen": true
+        },
+        "time": "1-7-2022 19:37",
+        "dirty": false
+      },
+      "1641564474365": {
+        "id": "1641564474365",
+        "progress": 1,
+        "state": "success",
+        "message": "1-7-2022 19:38 Build success in 9928 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-002",
+          "useSplashScreen": true
+        },
+        "time": "1-7-2022 19:37",
+        "dirty": false
+      },
+      "1641800058199": {
+        "id": "1641800058199",
+        "progress": 1,
+        "state": "success",
+        "message": "1-10-2022 13:06 Build success in 126438 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "web-desktop",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "useSplashScreen": true
+        },
+        "time": "1-10-2022 13:04",
+        "dirty": false
+      },
+      "1641801655566": {
+        "id": "1641801655566",
+        "progress": 1,
+        "state": "success",
+        "message": "1-10-2022 13:31 Build success in 11452 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "web-mobile",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-001",
+          "useSplashScreen": true
+        },
+        "time": "1-10-2022 13:30",
+        "dirty": false
+      },
+      "1641801739512": {
+        "id": "1641801739512",
+        "progress": 1,
+        "state": "success",
+        "message": "1-10-2022 13:32 Build success in 11921 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "web-mobile",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-002",
+          "useSplashScreen": true
+        },
+        "time": "1-10-2022 13:32",
+        "dirty": false
+      },
+      "1641802124838": {
+        "id": "1641802124838",
+        "progress": 1,
+        "state": "success",
+        "message": "1-10-2022 13:38 Build success in 13569 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "web-mobile",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-003",
+          "useSplashScreen": true
+        },
+        "time": "1-10-2022 13:38",
+        "dirty": false
+      },
+      "1641977750551": {
+        "id": "1641977750551",
+        "progress": 1,
+        "state": "success",
+        "message": "1-12-2022 14:26 Build success in 14800 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-003",
+          "useSplashScreen": true
+        },
+        "time": "1-12-2022 14:25",
+        "dirty": false
+      },
+      "1642571734018": {
+        "id": "1642571734018",
+        "progress": 1,
+        "state": "success",
+        "message": "1-19-2022 11:25 Build success in 15528 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-004",
+          "useSplashScreen": true
+        },
+        "time": "1-19-2022 11:25",
+        "dirty": false
+      },
+      "1658144932987": {
+        "id": "1658144932987",
+        "progress": 1,
+        "state": "success",
+        "message": "7-18-2022 17:20 Build success in 111690 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "N:/Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "7-18-2022 17:18",
+        "dirty": false
+      },
+      "1658212293047": {
+        "id": "1658212293047",
+        "progress": 1,
+        "state": "success",
+        "message": "7-19-2022 12:03 Build success in 106291 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-001",
+          "useSplashScreen": true
+        },
+        "time": "7-19-2022 12:01",
+        "dirty": false
+      },
+      "1658214642422": {
+        "id": "1658214642422",
+        "progress": 1,
+        "state": "failure",
+        "message": "7-19-2022 12:43 make package C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\build\\android failed!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "7-19-2022 12:40",
+        "dirty": false
+      },
+      "1658292324283": {
+        "id": "1658292324283",
+        "progress": 1,
+        "state": "success",
+        "message": "7-20-2022 10:17 Build success in 116265 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "N:\\Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-002",
+          "useSplashScreen": true
+        },
+        "time": "7-20-2022 10:15",
+        "dirty": false
+      },
+      "1658295256060": {
+        "id": "1658295256060",
+        "progress": 1,
+        "state": "success",
+        "message": "7-20-2022 11:04 Build success in 17289 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "N:\\Helix Build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-001",
+          "useSplashScreen": true
+        },
+        "time": "7-20-2022 11:04",
+        "dirty": false
+      },
+      "1658297050570": {
+        "id": "1658297050570",
+        "progress": 1,
+        "state": "success",
+        "message": "7-20-2022 11:34 Build success in 14526 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-003",
+          "useSplashScreen": true
+        },
+        "time": "7-20-2022 11:34",
+        "dirty": false
+      },
+      "1658298915713": {
+        "id": "1658298915713",
+        "progress": 1,
+        "state": "success",
+        "message": "7-20-2022 12:07 Build success in 132841 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-002",
+          "useSplashScreen": true
+        },
+        "time": "7-20-2022 12:05",
+        "dirty": false
+      },
+      "1658300020065": {
+        "id": "1658300020065",
+        "progress": 1,
+        "state": "success",
+        "message": "7-20-2022 12:23 Build success in 15815 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "7-20-2022 12:23",
+        "dirty": false
+      },
+      "1658301849993": {
+        "id": "1658301849993",
+        "progress": 1,
+        "state": "success",
+        "message": "7-20-2022 12:56 Build success in 152420 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-001",
+          "useSplashScreen": true
+        },
+        "time": "7-20-2022 12:54",
+        "dirty": false
+      },
+      "1658303086337": {
+        "id": "1658303086337",
+        "progress": 1,
+        "state": "success",
+        "message": "7-20-2022 13:15 Build success in 14126 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-002",
+          "useSplashScreen": true
+        },
+        "time": "7-20-2022 13:14",
+        "dirty": false
+      },
+      "1659073377505": {
+        "id": "1659073377505",
+        "progress": 1,
+        "state": "success",
+        "message": "7-29-2022 11:15 Build success in 136305 ms!",
+        "options": {
+          "name": "Helix",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "7-29-2022 11:12",
+        "dirty": false
+      },
+      "1659076977137": {
+        "id": "1659076977137",
+        "progress": 1,
+        "state": "success",
+        "message": "7-29-2022 12:13 Build success in 13266 ms!",
+        "options": {
+          "name": "MummyFall",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/GameOver.scene",
+              "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/StartScene.scene",
+              "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "useSplashScreen": true
+        },
+        "time": "7-29-2022 12:12",
+        "dirty": false
+      },
+      "1659103221728": {
+        "id": "1659103221728",
+        "progress": 1,
+        "state": "success",
+        "message": "7-29-2022 19:30 Build success in 21879 ms!",
+        "options": {
+          "name": "MummyFall",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": true,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-001",
+          "useSplashScreen": true
+        },
+        "time": "7-29-2022 19:30",
+        "dirty": false
+      }
+    }
+  }
+}

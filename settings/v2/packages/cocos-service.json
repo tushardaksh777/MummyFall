@@ -1,0 +1,150 @@
+{
+  "game": {
+    "app_id": "618009540",
+    "name": "Helix_20220110154914",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "194f00"
+    },
+    {
+      "app_id": "618009535",
+      "config_id": "161743"
+    },
+    {
+      "app_id": "618009540",
+      "config_id": "579e5a"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "194f00",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "315",
+          "enable": false,
+          "param": {}
+        }
+      ]
+    },
+    {
+      "app_id": "618009535",
+      "config_id": "161743",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "618009540",
+      "config_id": "579e5a",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": false,
+          "param": {
+            "app_id": "618009540",
+            "store_id": "H5",
+            "store_id_platform": "",
+            "plugin_version": "2.0.3_2.2.1"
+          }
+        },
+        {
+          "service_id": "315",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "316",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "278",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "305",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "313",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "302",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "303",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "309",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "314",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "304",
+          "enable": false,
+          "param": {}
+        }
+      ]
+    },
+    {
+      "app_id": "618009540",
+      "config_id": "edd6b7",
+      "config_name": "SDK",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "278",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "307",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "302",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "305",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "309",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "316",
+          "enable": false,
+          "param": {}
+        }
+      ]
+    }
+  ],
+  "__version__": "3.0.7"
+}
