@@ -1,0 +1,2969 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "N:\\COCOS Projects\\Helix\\assets\\Script.meta": {
+      "time": 1637921441287.715
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script": {
+      "time": 1640153660792.6836,
+      "uuid": "e3c2fa54-49df-4dcc-8033-378058db5326"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\Ball.ts.meta": {
+      "time": 1637921453458.8403
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\Ball.ts": {
+      "time": 1640409091933.573,
+      "uuid": "e6b34b47-3148-4312-8171-643a76e93a87"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material.meta": {
+      "time": 1638002928578.3352
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material": {
+      "time": 1640426873835.9333,
+      "uuid": "32ab2f0c-4787-4590-84e0-c61ced5a1fa5"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Black.mtl.meta": {
+      "time": 1638003388665.074
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Black.mtl": {
+      "time": 1638869834680.359,
+      "uuid": "333c91a6-ff69-4795-a826-d5758966d627"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Red.mtl.meta": {
+      "time": 1638003353922.5652
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Red.mtl": {
+      "time": 1639492594853.3743,
+      "uuid": "2c4b20d5-1714-49ae-b8f2-898aac0c7ef6"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\white.mtl.meta": {
+      "time": 1638002941419.7754
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\white.mtl": {
+      "time": 1640344755576.3425,
+      "uuid": "cfabf278-f676-449e-afdd-18c318451966"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model.meta": {
+      "time": 1638182388041.4338
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model": {
+      "time": 1640345168100.106,
+      "uuid": "0c2baf2c-7133-4f38-bca8-93e83c6eaca9"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Scene.meta": {
+      "time": 1638182425146.4675
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Scene": {
+      "time": 1639655736628.6746,
+      "uuid": "4f212335-f3b4-4b56-9bc3-d557af936352"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Scene\\scene.scene.meta": {
+      "time": 1637935386265.7097
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Scene\\scene.scene": {
+      "time": 1640932086017.3381,
+      "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\Control.ts.meta": {
+      "time": 1638197680516.0125
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\Control.ts": {
+      "time": 1640928805289.2463,
+      "uuid": "d97fc21c-635e-4c4c-a81a-ed59d365baf3"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab.meta": {
+      "time": 1638182359364.0774
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab": {
+      "time": 1640344822082.7246,
+      "uuid": "e597b7aa-74b3-409e-b1d0-e35d39396300"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Node-001.prefab.meta": {
+      "time": 1638265166128.0232
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Node-001.prefab": {
+      "time": 1640933415105.0042,
+      "uuid": "fdfbc311-9983-4ca7-841f-8b4f41fa00d4"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Cylinder.prefab.meta": {
+      "time": 1638267641737.5522
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Cylinder.prefab": {
+      "time": 1640069285095.1174,
+      "uuid": "47379321-6715-476f-bc1d-930e330816bd"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Node-002.prefab.meta": {
+      "time": 1638265310166.4353
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Node-002.prefab": {
+      "time": 1640933443804.4106,
+      "uuid": "c1818193-c3d4-4d81-85d2-4d309d566f24"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Node.prefab.meta": {
+      "time": 1638182347165.8994
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Node.prefab": {
+      "time": 1640933380706.7832,
+      "uuid": "7bd162dc-5130-4ae8-9eca-5a3e696337a4"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\HelixPart.FBX.meta": {
+      "time": 1638283073227.0583
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\HelixPart.FBX": {
+      "time": 1637996555119.969,
+      "uuid": "70101ca0-8047-41bc-b323-db8b13c40d2a"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Yellow.mtl.meta": {
+      "time": 1638622648602.568
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Yellow.mtl": {
+      "time": 1639822520667.271,
+      "uuid": "a45500ff-d444-4ec3-a993-b1a83ad46130"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture.meta": {
+      "time": 1638770430448.4844
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture": {
+      "time": 1640426996226.604,
+      "uuid": "3f90ac5d-b513-4b35-be17-e8ba0fc8ccde"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Color.jpg.meta": {
+      "time": 1638770462179.0073
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_NormalDX.jpg.meta": {
+      "time": 1638770462203.0093
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Displacement.jpg.meta": {
+      "time": 1638770462222.0078
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_NormalGL.jpg.meta": {
+      "time": 1638770462237.0088
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Roughness.jpg.meta": {
+      "time": 1638770462333.015
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_AmbientOcclusion.jpg.meta": {
+      "time": 1638770462347.015
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Color.jpg": {
+      "time": 1627644922142.9368,
+      "uuid": "db2d80a0-3f6c-4b74-b158-a059fa891fa5"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_NormalDX.jpg": {
+      "time": 1627644923502.398,
+      "uuid": "a6bc2998-786f-44a7-a0e1-eb30f4fdbc32"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Displacement.jpg": {
+      "time": 1627644922299.1953,
+      "uuid": "163557a8-f085-424f-b390-69ec0a4a4b5f"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_NormalGL.jpg": {
+      "time": 1627737322858.6912,
+      "uuid": "2bd2c485-456f-4ee6-9d45-ee9bc6ccb68c"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Roughness.jpg": {
+      "time": 1627644923221.1296,
+      "uuid": "1ec86f24-9d77-4eea-8f5e-5fcb9504491d"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_AmbientOcclusion.jpg": {
+      "time": 1627644922158.563,
+      "uuid": "fee9ff40-6dd3-44cc-8b07-1ca26e768d1f"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\BL.mtl.meta": {
+      "time": 1638869616561.7532
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\BL.mtl": {
+      "time": 1638869654076.888,
+      "uuid": "f6e5b075-c17f-4ec9-bd35-5e80d2c4cb38"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\sky.png.meta": {
+      "time": 1638872426281.2903
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\sky.png": {
+      "time": 1638871118797.343,
+      "uuid": "083bf3ec-3eeb-4190-bb6b-d0015a85a6fe"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\BlockGenration.ts.meta": {
+      "time": 1639131874877.1277
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\BlockGenration.ts": {
+      "time": 1639636293408.4202,
+      "uuid": "7a960144-a671-4a33-a97e-b7c29abea6ac"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\NodePrefab.ts.meta": {
+      "time": 1639147786987.2195
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\NodePrefab.ts": {
+      "time": 1640341948977.7002,
+      "uuid": "82902ea6-9031-491b-a2ff-9d60fcd86719"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Fall A Loop.fbx.meta": {
+      "time": 1638771718916.727
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Fall A Loop.fbx": {
+      "time": 1638771668568.5176,
+      "uuid": "7974ded3-03e5-4e24-9744-eae10c5ce224"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\9615.jpg.meta": {
+      "time": 1639374682671.268
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\9615.jpg": {
+      "time": 1639374250629.2466,
+      "uuid": "0cc8a598-f176-45b7-9fc6-b952671832c2"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Particle_1.prefab.meta": {
+      "time": 1639375485671.3225
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Particle_1.prefab": {
+      "time": 1639475381700.6206,
+      "uuid": "5c12299a-79af-4065-bdb5-4b1d16eec3b8"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Fire.mtl.meta": {
+      "time": 1639481815650.6123
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Fire.mtl": {
+      "time": 1639486343622.1328,
+      "uuid": "f15e3d4f-8935-4271-9993-d3a25d059a5f"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Mutant Dying.fbx.meta": {
+      "time": 1640171081937.7673
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Mutant Dying.fbx": {
+      "time": 1639550224559.8755,
+      "uuid": "722c69cf-06c1-41d8-b3b6-5502199e7477"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Jumping Up.fbx.meta": {
+      "time": 1639650975876.3599
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Jumping Up.fbx": {
+      "time": 1638773251289.1487,
+      "uuid": "4467c028-d887-450a-b8cc-620fc4092b2e"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\CuteAurora-PK3lZ.ttf.meta": {
+      "time": 1639636777556.9888
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\CuteAurora-PK3lZ.ttf": {
+      "time": 1603275464000,
+      "uuid": "b17bfa81-d87a-41f1-b369-d9b92eaddc23"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Mystery Manor.mp3.meta": {
+      "time": 1639649771797.4165
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Mystery Manor.mp3": {
+      "time": 1639647653556.9944,
+      "uuid": "05e8d687-530e-4ab6-9d7f-31a2ee984969"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Scene\\GameOver.scene.meta": {
+      "time": 1639655414938.1875
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Scene\\GameOver.scene": {
+      "time": 1639751663292.4082,
+      "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Scene\\StartScene.scene.meta": {
+      "time": 1639655684695.256
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Scene\\StartScene.scene": {
+      "time": 1640064951669.7695,
+      "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\Floorgenration.ts.meta": {
+      "time": 1639136005648.9602
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Lava Material.mtl.meta": {
+      "time": 1639736111343.2898
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Lava Material.mtl": {
+      "time": 1640427470500.197,
+      "uuid": "3e719c90-e826-4670-99ab-d247d5483ab4"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava_005_NORM.jpg.meta": {
+      "time": 1639738340727.9314
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava_005_NORM.jpg": {
+      "time": 1639737373068.0786,
+      "uuid": "d2023169-7996-4a22-9167-5b90e2eb6c05"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava_005_COLOR.jpg.meta": {
+      "time": 1639738331239.5625
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava_005_COLOR.jpg": {
+      "time": 1639737369821.0347,
+      "uuid": "0f0c56a4-74ef-4af8-8745-47a564e34857"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava_005_OCC.jpg.meta": {
+      "time": 1639738594630.2556
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava_005_OCC.jpg": {
+      "time": 1639738573387.98,
+      "uuid": "fa8969a5-b688-4c35-b566-12ccb236790a"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Node-003.prefab.meta": {
+      "time": 1639738748083.3347
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Node-003.prefab": {
+      "time": 1640933468912.9988,
+      "uuid": "93fd48e7-a4ca-4619-9bff-8795ce395283"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\ButtonFunction.ts.meta": {
+      "time": 1639741879765.423
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\ButtonFunction.ts": {
+      "time": 1640334280123.481,
+      "uuid": "0f6c0d63-6980-4a1f-aff9-8716363e08d1"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Shader.meta": {
+      "time": 1639746220130.0964
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Shader": {
+      "time": 1639746232159.5142,
+      "uuid": "93d91499-41ef-4173-9554-c4febb79caf2"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Shader\\LavaShader.effect.meta": {
+      "time": 1639750733190.7437
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Shader\\LavaShader.effect": {
+      "time": 1639746232155.511,
+      "uuid": "b1418f15-2daa-478e-9962-a7d83ac29201"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Fall A Loop.fbx.meta": {
+      "time": 1639812099189.9944
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Fall A Loop.fbx": {
+      "time": 1638771668568.5176,
+      "uuid": "e183c59f-6165-4c39-bd11-7ea0d4662aab"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.05.03 AM.jpeg.meta": {
+      "time": 1640064930402.4702
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.05.03 AM.jpeg": {
+      "time": 1640064922039.6858,
+      "uuid": "c1637987-3797-4747-80fd-275a514351ce"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Sand.mtl.meta": {
+      "time": 1640065092644.5232
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Sand.mtl": {
+      "time": 1640857040210.2097,
+      "uuid": "dac05ffd-7b0c-4c4c-b60a-0f302667ffec"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.07.56 AM.jpeg.meta": {
+      "time": 1640065114928.0388
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.07.56 AM.jpeg": {
+      "time": 1640065085662.3564,
+      "uuid": "b6a0188b-f238-4a32-a33b-9ba5b1c20af8"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.12.38 AM.jpeg.meta": {
+      "time": 1640065381100.614
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.12.38 AM.jpeg": {
+      "time": 1640065371353.2908,
+      "uuid": "d48e1f38-10dd-4fa1-bacb-b5a517393f7d"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.14.29 AM.jpeg.meta": {
+      "time": 1640065486080.2798
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.14.29 AM.jpeg": {
+      "time": 1640065478952.3225,
+      "uuid": "0dc5d791-2ca8-4483-8de3-2bef35179f00"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.17.29 AM.jpeg.meta": {
+      "time": 1640065666189.3142
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.17.29 AM.jpeg": {
+      "time": 1640065661117.7744,
+      "uuid": "0f712b50-bdd3-4c69-b250-9a28d1dee474"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.23.07 AM.jpeg.meta": {
+      "time": 1640066006322.4907
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.23.07 AM.jpeg": {
+      "time": 1640065998433.9622,
+      "uuid": "a0468495-8291-4b9e-a32b-9272d8e2ee91"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Tower.mtl.meta": {
+      "time": 1640066033500.076
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Tower.mtl": {
+      "time": 1640069217156.105,
+      "uuid": "055f57f6-c7c2-439d-8cfa-867531aed46b"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\stonetexturelowdetail(Light).png.meta": {
+      "time": 1640067465838.748
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\stonetexturelowdetail(Light).png": {
+      "time": 1640067460360.051,
+      "uuid": "01c8e81d-e2ee-4348-95aa-71bb4d897e55"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\DSC07701.JPG.meta": {
+      "time": 1640067837905.516
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\DSC07701.JPG": {
+      "time": 1640067754390.3403,
+      "uuid": "55f2fec6-7c8e-4b42-8900-a40e639921f6"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\skyorig.png.meta": {
+      "time": 1640067890805.8552
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\skyorig.png": {
+      "time": 1640067789827.832,
+      "uuid": "f636c7fc-aa90-4f78-8d51-f4c997a26f45"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\stone way- texture.png.meta": {
+      "time": 1640068408528.4214
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\stone way- texture.png": {
+      "time": 1640068376402.9724,
+      "uuid": "96be6ccf-6480-408f-9581-2a490cfabb2b"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\dirt-texture.png.meta": {
+      "time": 1640068522319.157
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\dirt-texture.png": {
+      "time": 1640068513919.924,
+      "uuid": "fc0c3661-1f27-42d2-9062-a9ba9140f144"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\sand.png.meta": {
+      "time": 1640068695868.453
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\sand.png": {
+      "time": 1640068581904.9004,
+      "uuid": "a0919201-e1d8-42f1-97ac-eccc7427a48b"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\461223133.jpg.meta": {
+      "time": 1640068844822.1877
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\461223133.jpg": {
+      "time": 1640068800489.3374,
+      "uuid": "29a8db4c-407c-4772-bfbd-7a30ac03fd20"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\1-1-17d.jpg.meta": {
+      "time": 1640068888438.8638
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\1-1-17d.jpg": {
+      "time": 1640068876353.3945,
+      "uuid": "1b22c446-db8b-4913-b2f0-3a426e4b7c3c"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Sky 2.png.meta": {
+      "time": 1640431831473.5674
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Sky 2.png": {
+      "time": 1640068955922.5325,
+      "uuid": "7a6a7883-2617-4151-bd15-8d37604cab44"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\grasslight-big (2).png.meta": {
+      "time": 1640069142895.3386
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\grasslight-big (2).png": {
+      "time": 1640067307423.491,
+      "uuid": "b6d6f4c7-8e77-451f-a9f1-53c651a9df26"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Pumpkin.fbx.meta": {
+      "time": 1640069963113.6223
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Pumpkin.fbx": {
+      "time": 1572849384000,
+      "uuid": "f14b44c1-278f-4cf0-bb14-ef9b53ece5d4"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\ghost.mp3.meta": {
+      "time": 1640092014944.3862
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\ghost.mp3": {
+      "time": 1640091855418.841,
+      "uuid": "1cfc2359-572a-42a5-96c2-d8ae48c4e764"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\jump.mp3.meta": {
+      "time": 1640092020872.5642
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\jump.mp3": {
+      "time": 1640091893716.6218,
+      "uuid": "d851c18a-5d5f-4baf-a241-1c647287abda"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\StartSceneUI.ts.meta": {
+      "time": 1640096020908.7576
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\StartSceneUI.ts": {
+      "time": 1640274566875.2751,
+      "uuid": "2ffee3a6-000d-4353-baf2-c84b1014ba77"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\PauseScene.ts.meta": {
+      "time": 1640153373614.384
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\PauseScene.ts": {
+      "time": 1640334528052.8667,
+      "uuid": "0a504391-d54a-47a0-8aa0-2dc7b77c9045"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\StopGame.ts.meta": {
+      "time": 1640153660803.6982
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Script\\StopGame.ts": {
+      "time": 1640362646915.5361,
+      "uuid": "96b32379-0b56-4914-961a-d49e8f16a9bd"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI.meta": {
+      "time": 1640183045895.017
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI": {
+      "time": 1640318106076.8088,
+      "uuid": "9007b096-c0b6-42ea-b08b-8f1848900d8c"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons.meta": {
+      "time": 1640183058030.4348
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons": {
+      "time": 1640318136147.1292,
+      "uuid": "bc911034-53dc-4281-b3fd-2a0004a15187"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\play.png.meta": {
+      "time": 1640152357267.556
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\play.png": {
+      "time": 1640151629310.5234,
+      "uuid": "178adfff-74ee-4b9c-8403-9086209d8222"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Title.png.meta": {
+      "time": 1640010625071.547
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Title.png": {
+      "time": 1639997686705.483,
+      "uuid": "b6087fd7-928e-4600-a2ff-ae4d24559692"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\PlayPressed.png.meta": {
+      "time": 1640183134852.0037
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\PlayPressed.png": {
+      "time": 1640166639366.5974,
+      "uuid": "ce65e4e0-39df-4fcd-89f6-4653906e1f05"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\sfx-pop2.mp3.meta": {
+      "time": 1640185579452.9094
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\sfx-pop2.mp3": {
+      "time": 1640167233006.085,
+      "uuid": "ff178f6c-a8ab-42a2-b25d-ae608180ed1b"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Daylight Box UV.png.meta": {
+      "time": 1640186994979.2917
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Daylight Box UV.png": {
+      "time": 1640186888817.1858,
+      "uuid": "fe5f2175-3c45-4a13-ae0d-4a7ccaa851ef"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\GameOver.png.meta": {
+      "time": 1640187769079.638
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\GameOver.png": {
+      "time": 1640187568923.6323,
+      "uuid": "4785d328-dfa9-4e35-a442-5743ca1441ce"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Exit.png.meta": {
+      "time": 1640187780589.5034
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Exit.png": {
+      "time": 1640187489837.4907,
+      "uuid": "fcdf465b-f8df-43fe-8d03-5e02faccfa65"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\ExitPressed.png.meta": {
+      "time": 1640187863450.9912
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\ExitPressed.png": {
+      "time": 1640187525793.2385,
+      "uuid": "dabe3155-b1cc-4ed7-9b17-f1b9e9237617"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Continue.png.meta": {
+      "time": 1640266301580.3171
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Continue.png": {
+      "time": 1640263291984.778,
+      "uuid": "e77c5336-b80d-44ee-9d5f-57b4d0f240ee"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\ContinuePressed.png.meta": {
+      "time": 1640266305447.2148
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\ContinuePressed.png": {
+      "time": 1640265660389.032,
+      "uuid": "de2a3785-631a-4d86-bb07-fe35f4511ada"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Restart.png.meta": {
+      "time": 1640266314890.5989
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Restart.png": {
+      "time": 1640265691790.6853,
+      "uuid": "40e4a2a2-677d-41a6-a288-3fc617fc0dfe"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\RestartPressed.png.meta": {
+      "time": 1640266310640.5159
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\RestartPressed.png": {
+      "time": 1640265783416.4573,
+      "uuid": "4ffd92fe-b8f6-469c-baf3-94c62b72e94d"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Pause.png.meta": {
+      "time": 1640272726950.2332
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Pause.png": {
+      "time": 1640270893799.4282,
+      "uuid": "dce650d4-6481-4fd1-8e90-645504796169"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\PausePressed.png.meta": {
+      "time": 1640272712776.4631
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\PausePressed.png": {
+      "time": 1640270893799.4282,
+      "uuid": "ae592afb-1e1f-4931-a688-e55ec2f70a29"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Pause.png.meta": {
+      "time": 1640318106092.8142
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Pause.png": {
+      "time": 1640317785402.305,
+      "uuid": "bb4066ac-7cec-4cd3-9d92-d21ace31161b"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Resume.png.meta": {
+      "time": 1640318161285.3796
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\Resume.png": {
+      "time": 1640317902792.556,
+      "uuid": "f432930b-8b82-461a-9237-9aa732ad4efb"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\ResumePressed.png.meta": {
+      "time": 1640318168813.2788
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\UI\\Buttons\\ResumePressed.png": {
+      "time": 1640317926393.4666,
+      "uuid": "064caaf4-49dd-4286-80b5-54d5d97813ed"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Capsule.fbx.meta": {
+      "time": 1640334843871.7168
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Capsule.fbx": {
+      "time": 1630826118000,
+      "uuid": "1e303d83-935e-4790-a0ec-717f132fce20"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Bolt.prefab.meta": {
+      "time": 1640344822092.724
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\prefab\\Bolt.prefab": {
+      "time": 1640347951753.4128,
+      "uuid": "251402c4-e35e-4466-8ac0-2eda6eb5456a"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Bolt.fbx.meta": {
+      "time": 1640345168644.2854
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Model\\Bolt.fbx": {
+      "time": 1640344516518.3286,
+      "uuid": "f5aa8a67-41ac-40f0-87db-de929109fee7"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Floor.mtl.meta": {
+      "time": 1640426873850.9312
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Floor.mtl": {
+      "time": 1640427285871.5173,
+      "uuid": "ca81a323-e9bb-4e6b-b343-322224785f98"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture.meta": {
+      "time": 1640426996228.5913
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture": {
+      "time": 1640427010457.399,
+      "uuid": "c3abec31-d808-4d6b-9d7c-fff14497f220"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_01_NORM.png.meta": {
+      "time": 1640427010527.4036
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_01.png.meta": {
+      "time": 1640427010557.4072
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_02.png.meta": {
+      "time": 1640427010580.4094
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_02_NM.png.meta": {
+      "time": 1640427010674.416
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_01_NORM.png": {
+      "time": 1640426943697.8364,
+      "uuid": "8f09e4a3-48b3-4270-8ce7-255224c7fa7f"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_01.png": {
+      "time": 1640426944095.468,
+      "uuid": "d2973970-bdf4-496d-a0d5-e6d635931dc1"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_02.png": {
+      "time": 1640426940548.2915,
+      "uuid": "30d35bc1-d3f5-4214-83be-05c96954945a"
+    },
+    "N:\\COCOS Projects\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_02_NM.png": {
+      "time": 1640426940344.2651,
+      "uuid": "8f20ea5d-b886-4271-8c61-b25944031d72"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\CuteAurora-PK3lZ.ttf": {
+      "time": 1603275464000,
+      "uuid": "b17bfa81-d87a-41f1-b369-d9b92eaddc23"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Daylight Box UV.png": {
+      "time": 1640186888817.1858,
+      "uuid": "fe5f2175-3c45-4a13-ae0d-4a7ccaa851ef"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material": {
+      "time": 1640589309223.5212,
+      "uuid": "32ab2f0c-4787-4590-84e0-c61ced5a1fa5"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model": {
+      "time": 1640589310143.1719,
+      "uuid": "0c2baf2c-7133-4f38-bca8-93e83c6eaca9"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab": {
+      "time": 1640589310283.8506,
+      "uuid": "e597b7aa-74b3-409e-b1d0-e35d39396300"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Scene": {
+      "time": 1640247749259.328,
+      "uuid": "4f212335-f3b4-4b56-9bc3-d557af936352"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script": {
+      "time": 1658301764856.0159,
+      "uuid": "e3c2fa54-49df-4dcc-8033-378058db5326"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Shader": {
+      "time": 1640247749409.4192,
+      "uuid": "93d91499-41ef-4173-9554-c4febb79caf2"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI": {
+      "time": 1640589310846.513,
+      "uuid": "9007b096-c0b6-42ea-b08b-8f1848900d8c"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\9615.jpg": {
+      "time": 1639374250629.2466,
+      "uuid": "0cc8a598-f176-45b7-9fc6-b952671832c2"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\BL.mtl": {
+      "time": 1658145121891.8867,
+      "uuid": "f6e5b075-c17f-4ec9-bd35-5e80d2c4cb38"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Black.mtl": {
+      "time": 1658145121883.8838,
+      "uuid": "333c91a6-ff69-4795-a826-d5758966d627"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Fire.mtl": {
+      "time": 1658145121883.8838,
+      "uuid": "f15e3d4f-8935-4271-9993-d3a25d059a5f"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Floor.mtl": {
+      "time": 1658145121951.8936,
+      "uuid": "ca81a323-e9bb-4e6b-b343-322224785f98"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Lava Material.mtl": {
+      "time": 1658145121984.8896,
+      "uuid": "3e719c90-e826-4670-99ab-d247d5483ab4"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Pumpkin.fbx": {
+      "time": 1572849384000,
+      "uuid": "f14b44c1-278f-4cf0-bb14-ef9b53ece5d4"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Red.mtl": {
+      "time": 1658145121997.8943,
+      "uuid": "2c4b20d5-1714-49ae-b8f2-898aac0c7ef6"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Sand.mtl": {
+      "time": 1658145122020.9014,
+      "uuid": "dac05ffd-7b0c-4c4c-b60a-0f302667ffec"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture": {
+      "time": 1640589309939.9873,
+      "uuid": "3f90ac5d-b513-4b35-be17-e8ba0fc8ccde"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Tower.mtl": {
+      "time": 1658145122036.8962,
+      "uuid": "055f57f6-c7c2-439d-8cfa-867531aed46b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\white.mtl": {
+      "time": 1658145122036.8962,
+      "uuid": "cfabf278-f676-449e-afdd-18c318451966"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Yellow.mtl": {
+      "time": 1658145122051.899,
+      "uuid": "a45500ff-d444-4ec3-a993-b1a83ad46130"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Bolt.fbx": {
+      "time": 1640344516518.3286,
+      "uuid": "f5aa8a67-41ac-40f0-87db-de929109fee7"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Capsule.fbx": {
+      "time": 1630826118000,
+      "uuid": "1e303d83-935e-4790-a0ec-717f132fce20"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Fall A Loop.fbx": {
+      "time": 1638771668568.5176,
+      "uuid": "e183c59f-6165-4c39-bd11-7ea0d4662aab"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Jumping Up.fbx": {
+      "time": 1638773251289.1487,
+      "uuid": "4467c028-d887-450a-b8cc-620fc4092b2e"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Mutant Dying.fbx": {
+      "time": 1639550224559.8755,
+      "uuid": "722c69cf-06c1-41d8-b3b6-5502199e7477"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Standing Jump.fbx": {
+      "time": 1639372881131.13,
+      "uuid": "3a0dc1d3-2699-4db4-bc6f-e828a72331bc"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Bolt.prefab": {
+      "time": 1658145126257.132,
+      "uuid": "251402c4-e35e-4466-8ac0-2eda6eb5456a"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Cylinder.prefab": {
+      "time": 1658145126282.1301,
+      "uuid": "47379321-6715-476f-bc1d-930e330816bd"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Fall A Loop.fbx": {
+      "time": 1638771668568.5176,
+      "uuid": "7974ded3-03e5-4e24-9744-eae10c5ce224"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\HelixPart.FBX": {
+      "time": 1637996555119.969,
+      "uuid": "70101ca0-8047-41bc-b323-db8b13c40d2a"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Node-001.prefab": {
+      "time": 1658145141476.2434,
+      "uuid": "fdfbc311-9983-4ca7-841f-8b4f41fa00d4"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Node-002.prefab": {
+      "time": 1658145141521.2454,
+      "uuid": "c1818193-c3d4-4d81-85d2-4d309d566f24"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Node-003.prefab": {
+      "time": 1658145141523.247,
+      "uuid": "93fd48e7-a4ca-4619-9bff-8795ce395283"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Node.prefab": {
+      "time": 1658145141548.2463,
+      "uuid": "7bd162dc-5130-4ae8-9eca-5a3e696337a4"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Particle.prefab": {
+      "time": 1658145141592.2515,
+      "uuid": "5b2479fa-b844-4df3-a6a8-bccac493badf"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Particle_1.prefab": {
+      "time": 1658145141610.2532,
+      "uuid": "5c12299a-79af-4065-bdb5-4b1d16eec3b8"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Scene\\GameOver.scene": {
+      "time": 1658145141635.2544,
+      "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Scene\\scene.scene": {
+      "time": 1658299059388.688,
+      "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Scene\\StartScene.scene": {
+      "time": 1658145141711.258,
+      "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\Ball.ts": {
+      "time": 1658291438619.5732,
+      "uuid": "e6b34b47-3148-4312-8171-643a76e93a87"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\BlockGenration.ts": {
+      "time": 1658215552580.9058,
+      "uuid": "7a960144-a671-4a33-a97e-b7c29abea6ac"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\ButtonFunction.ts": {
+      "time": 1658302866374.3096,
+      "uuid": "0f6c0d63-6980-4a1f-aff9-8716363e08d1"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\Control.ts": {
+      "time": 1641277380073.091,
+      "uuid": "d97fc21c-635e-4c4c-a81a-ed59d365baf3"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\Floorgenration.ts.meta": {
+      "time": 1658138783480.7769
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\NodePrefab.ts": {
+      "time": 1641559092229.8552,
+      "uuid": "82902ea6-9031-491b-a2ff-9d60fcd86719"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\PauseScene.ts": {
+      "time": 1641556903299.695,
+      "uuid": "0a504391-d54a-47a0-8aa0-2dc7b77c9045"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\StartSceneUI.ts": {
+      "time": 1641557251568.607,
+      "uuid": "2ffee3a6-000d-4353-baf2-c84b1014ba77"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\StopGame.ts": {
+      "time": 1641564398305.9294,
+      "uuid": "96b32379-0b56-4914-961a-d49e8f16a9bd"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Shader\\LavaShader.effect": {
+      "time": 1658225468796.3892,
+      "uuid": "b1418f15-2daa-478e-9962-a7d83ac29201"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons": {
+      "time": 1640589311080.955,
+      "uuid": "bc911034-53dc-4281-b3fd-2a0004a15187"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\GameOver.png": {
+      "time": 1640187568923.6323,
+      "uuid": "4785d328-dfa9-4e35-a442-5743ca1441ce"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Pause.png": {
+      "time": 1640317785402.305,
+      "uuid": "bb4066ac-7cec-4cd3-9d92-d21ace31161b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Title.png": {
+      "time": 1639997686705.483,
+      "uuid": "b6087fd7-928e-4600-a2ff-ae4d24559692"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\1-1-17d.jpg": {
+      "time": 1640068876353.3945,
+      "uuid": "1b22c446-db8b-4913-b2f0-3a426e4b7c3c"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\461223133.jpg": {
+      "time": 1640068800489.3374,
+      "uuid": "29a8db4c-407c-4772-bfbd-7a30ac03fd20"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\dirt-texture.png": {
+      "time": 1640068513919.924,
+      "uuid": "fc0c3661-1f27-42d2-9062-a9ba9140f144"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\DSC07701.JPG": {
+      "time": 1640067754390.3403,
+      "uuid": "55f2fec6-7c8e-4b42-8900-a40e639921f6"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\grasslight-big (2).png": {
+      "time": 1640067307423.491,
+      "uuid": "b6d6f4c7-8e77-451f-a9f1-53c651a9df26"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture": {
+      "time": 1640589310080.656,
+      "uuid": "c3abec31-d808-4d6b-9d7c-fff14497f220"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava_005_COLOR.jpg": {
+      "time": 1639737369821.0347,
+      "uuid": "0f0c56a4-74ef-4af8-8745-47a564e34857"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava_005_NORM.jpg": {
+      "time": 1639737373068.0786,
+      "uuid": "d2023169-7996-4a22-9167-5b90e2eb6c05"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava_005_OCC.jpg": {
+      "time": 1639738573387.98,
+      "uuid": "fa8969a5-b688-4c35-b566-12ccb236790a"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\sand.png": {
+      "time": 1640068581904.9004,
+      "uuid": "a0919201-e1d8-42f1-97ac-eccc7427a48b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Sky 2.png": {
+      "time": 1640068955922.5325,
+      "uuid": "7a6a7883-2617-4151-bd15-8d37604cab44"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\sky.png": {
+      "time": 1638871118797.343,
+      "uuid": "083bf3ec-3eeb-4190-bb6b-d0015a85a6fe"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\skyorig.png": {
+      "time": 1640067789827.832,
+      "uuid": "f636c7fc-aa90-4f78-8d51-f4c997a26f45"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\stone way- texture.png": {
+      "time": 1640068376402.9724,
+      "uuid": "96be6ccf-6480-408f-9581-2a490cfabb2b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\stonetexturelowdetail(Light).png": {
+      "time": 1640067460360.051,
+      "uuid": "01c8e81d-e2ee-4348-95aa-71bb4d897e55"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.05.03 AM.jpeg": {
+      "time": 1640064922039.6858,
+      "uuid": "c1637987-3797-4747-80fd-275a514351ce"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.07.56 AM.jpeg": {
+      "time": 1640065085662.3564,
+      "uuid": "b6a0188b-f238-4a32-a33b-9ba5b1c20af8"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.12.38 AM.jpeg": {
+      "time": 1640065371353.2908,
+      "uuid": "d48e1f38-10dd-4fa1-bacb-b5a517393f7d"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.14.29 AM.jpeg": {
+      "time": 1640065478952.3225,
+      "uuid": "0dc5d791-2ca8-4483-8de3-2bef35179f00"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.17.29 AM.jpeg": {
+      "time": 1640065661117.7744,
+      "uuid": "0f712b50-bdd3-4c69-b250-9a28d1dee474"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.23.07 AM.jpeg": {
+      "time": 1640065998433.9622,
+      "uuid": "a0468495-8291-4b9e-a32b-9272d8e2ee91"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_AmbientOcclusion.jpg": {
+      "time": 1627644922158.563,
+      "uuid": "fee9ff40-6dd3-44cc-8b07-1ca26e768d1f"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Color.jpg": {
+      "time": 1627644922142.9368,
+      "uuid": "db2d80a0-3f6c-4b74-b158-a059fa891fa5"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Displacement.jpg": {
+      "time": 1627644922299.1953,
+      "uuid": "163557a8-f085-424f-b390-69ec0a4a4b5f"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_NormalDX.jpg": {
+      "time": 1627644923502.398,
+      "uuid": "a6bc2998-786f-44a7-a0e1-eb30f4fdbc32"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_NormalGL.jpg": {
+      "time": 1627737322858.6912,
+      "uuid": "2bd2c485-456f-4ee6-9d45-ee9bc6ccb68c"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Roughness.jpg": {
+      "time": 1627644923221.1296,
+      "uuid": "1ec86f24-9d77-4eea-8f5e-5fcb9504491d"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Continue.png": {
+      "time": 1640263291984.778,
+      "uuid": "e77c5336-b80d-44ee-9d5f-57b4d0f240ee"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\ContinuePressed.png": {
+      "time": 1640265660389.032,
+      "uuid": "de2a3785-631a-4d86-bb07-fe35f4511ada"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Exit.png": {
+      "time": 1640187489837.4907,
+      "uuid": "fcdf465b-f8df-43fe-8d03-5e02faccfa65"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\ExitPressed.png": {
+      "time": 1640187525793.2385,
+      "uuid": "dabe3155-b1cc-4ed7-9b17-f1b9e9237617"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Pause.png": {
+      "time": 1640270893799.4282,
+      "uuid": "dce650d4-6481-4fd1-8e90-645504796169"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\PausePressed.png": {
+      "time": 1640270893799.4282,
+      "uuid": "ae592afb-1e1f-4931-a688-e55ec2f70a29"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\play.png": {
+      "time": 1640151629310.5234,
+      "uuid": "178adfff-74ee-4b9c-8403-9086209d8222"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\PlayPressed.png": {
+      "time": 1640166639366.5974,
+      "uuid": "ce65e4e0-39df-4fcd-89f6-4653906e1f05"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Restart.png": {
+      "time": 1640265691790.6853,
+      "uuid": "40e4a2a2-677d-41a6-a288-3fc617fc0dfe"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\RestartPressed.png": {
+      "time": 1640265783416.4573,
+      "uuid": "4ffd92fe-b8f6-469c-baf3-94c62b72e94d"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Resume.png": {
+      "time": 1640317902792.556,
+      "uuid": "f432930b-8b82-461a-9237-9aa732ad4efb"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\ResumePressed.png": {
+      "time": 1640317926393.4666,
+      "uuid": "064caaf4-49dd-4286-80b5-54d5d97813ed"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_01.png": {
+      "time": 1640426944095.468,
+      "uuid": "d2973970-bdf4-496d-a0d5-e6d635931dc1"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_01_NORM.png": {
+      "time": 1640426943697.8364,
+      "uuid": "8f09e4a3-48b3-4270-8ce7-255224c7fa7f"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_02.png": {
+      "time": 1640426940548.2915,
+      "uuid": "30d35bc1-d3f5-4214-83be-05c96954945a"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_02_NM.png": {
+      "time": 1640426940344.2651,
+      "uuid": "8f20ea5d-b886-4271-8c61-b25944031d72"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material.meta": {
+      "time": 1638002928578.3352
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model.meta": {
+      "time": 1638182388041.4338
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\CuteAurora-PK3lZ.ttf.meta": {
+      "time": 1658225449820.635
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab.meta": {
+      "time": 1638182359364.0774
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Scene.meta": {
+      "time": 1638182425146.4675
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script.meta": {
+      "time": 1637921441287.715
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Shader.meta": {
+      "time": 1639746220130.0964
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI.meta": {
+      "time": 1640183045895.017
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\BL.mtl.meta": {
+      "time": 1658145121949.8923
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Black.mtl.meta": {
+      "time": 1658145121933.8967
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Fire.mtl.meta": {
+      "time": 1658145121935.894
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Floor.mtl.meta": {
+      "time": 1658145121985.8945
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture.meta": {
+      "time": 1638770430448.4844
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Red.mtl.meta": {
+      "time": 1658145122023.8958
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\9615.jpg.meta": {
+      "time": 1658145122000.8962
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Yellow.mtl.meta": {
+      "time": 1658145122065.898
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\white.mtl.meta": {
+      "time": 1658145122052.8972
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Bolt.fbx.meta": {
+      "time": 1658225452429.9507
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Capsule.fbx.meta": {
+      "time": 1658225453462.6714
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Daylight Box UV.png.meta": {
+      "time": 1658225452824.2302
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Pumpkin.fbx.meta": {
+      "time": 1658225456290.342
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Bolt.prefab.meta": {
+      "time": 1658145126269.1282
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Cylinder.prefab.meta": {
+      "time": 1658145126312.1316
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Fall A Loop.fbx.meta": {
+      "time": 1658225467994.2
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\HelixPart.FBX.meta": {
+      "time": 1658225469101.2231
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Jumping Up.fbx.meta": {
+      "time": 1658225468485.4775
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Node-001.prefab.meta": {
+      "time": 1658145141528.2468
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Mutant Dying.fbx.meta": {
+      "time": 1658225468509.4773
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Node-003.prefab.meta": {
+      "time": 1658145141562.2498
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Node-002.prefab.meta": {
+      "time": 1658145141565.252
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Node.prefab.meta": {
+      "time": 1658145141613.2532
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Particle.prefab.meta": {
+      "time": 1658145141649.2551
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Particle_1.prefab.meta": {
+      "time": 1658145141665.2551
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Scene\\GameOver.scene.meta": {
+      "time": 1658145142015.239
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\Ball.ts.meta": {
+      "time": 1658138783448.775
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\BlockGenration.ts.meta": {
+      "time": 1658138783455.7737
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\ButtonFunction.ts.meta": {
+      "time": 1658138783468.7744
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Scene\\scene.scene.meta": {
+      "time": 1658145142016.2375
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\Control.ts.meta": {
+      "time": 1658138783476.7766
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Scene\\StartScene.scene.meta": {
+      "time": 1658145142031.237
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\Floorgenration.ts": {
+      "time": 1641564220216.5032,
+      "uuid": "535d1040-0c5a-4be1-880b-38d68a6a69a8"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\NodePrefab.ts.meta": {
+      "time": 1658138783484.7769
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\PauseScene.ts.meta": {
+      "time": 1658138783486.7756
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\StartSceneUI.ts.meta": {
+      "time": 1658138783495.7756
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Script\\StopGame.ts.meta": {
+      "time": 1658138783497.7756
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons.meta": {
+      "time": 1640183058030.4348
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Shader\\LavaShader.effect.meta": {
+      "time": 1658225469031.2166
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Sand.mtl.meta": {
+      "time": 1658145142079.2449
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Tower.mtl.meta": {
+      "time": 1658145142077.247
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Lava Material.mtl.meta": {
+      "time": 1658145142076.2651
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\GameOver.png.meta": {
+      "time": 1658225469140.2256
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Pause.png.meta": {
+      "time": 1658225469133.2268
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Title.png.meta": {
+      "time": 1658225469153.2278
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\prefab\\Fall A Loop.fbx.meta": {
+      "time": 1658225468777.8357
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\dirt-texture.png.meta": {
+      "time": 1658225469202.2334
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\461223133.jpg.meta": {
+      "time": 1658145142130.2449
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture.meta": {
+      "time": 1640426996228.5913
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\1-1-17d.jpg.meta": {
+      "time": 1658145142150.245
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\grasslight-big (2).png.meta": {
+      "time": 1658225469248.235
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava_005_COLOR.jpg.meta": {
+      "time": 1658145142236.2534
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava_005_NORM.jpg.meta": {
+      "time": 1658145142245.2534
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava_005_OCC.jpg.meta": {
+      "time": 1658145142290.2568
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\sand.png.meta": {
+      "time": 1658225541563.4966
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\sky.png.meta": {
+      "time": 1658225541605.5005
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\stone way- texture.png.meta": {
+      "time": 1658225541617.5027
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Sky 2.png.meta": {
+      "time": 1658225542275.5554
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Model\\Standing Jump.fbx.meta": {
+      "time": 1658225468420.8308
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\stonetexturelowdetail(Light).png.meta": {
+      "time": 1658225541662.5063
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.05.03 AM.jpeg.meta": {
+      "time": 1658145205388.9753
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.07.56 AM.jpeg.meta": {
+      "time": 1658145205415.9695
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\DSC07701.JPG.meta": {
+      "time": 1658225543813.642
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.12.38 AM.jpeg.meta": {
+      "time": 1658145205425.9702
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.14.29 AM.jpeg.meta": {
+      "time": 1658145205444.9714
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.23.07 AM.jpeg.meta": {
+      "time": 1658145205478.9739
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.17.29 AM.jpeg.meta": {
+      "time": 1658145205455.9724
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Color.jpg.meta": {
+      "time": 1658145205524.978
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_AmbientOcclusion.jpg.meta": {
+      "time": 1658145205492.974
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\skyorig.png.meta": {
+      "time": 1658225541985.5315
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_NormalDX.jpg.meta": {
+      "time": 1658145205634.8833
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Displacement.jpg.meta": {
+      "time": 1658145205536.977
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_Roughness.jpg.meta": {
+      "time": 1658145205702.8918
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\WoodFloor041_1K_NormalGL.jpg.meta": {
+      "time": 1658145205653.8867
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Continue.png.meta": {
+      "time": 1658225542169.5476
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\ContinuePressed.png.meta": {
+      "time": 1658225542204.5496
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Exit.png.meta": {
+      "time": 1658225542254.5537
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Pause.png.meta": {
+      "time": 1658225542375.564
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\ExitPressed.png.meta": {
+      "time": 1658225542344.5625
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\PausePressed.png.meta": {
+      "time": 1658225542379.566
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\play.png.meta": {
+      "time": 1658225542419.5671
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\PlayPressed.png.meta": {
+      "time": 1658225542516.5752
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\RestartPressed.png.meta": {
+      "time": 1658225542539.577
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Restart.png.meta": {
+      "time": 1658225542550.579
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\Resume.png.meta": {
+      "time": 1658225542564.579
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\UI\\Buttons\\ResumePressed.png.meta": {
+      "time": 1658225542649.5862
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_01.png.meta": {
+      "time": 1658225542610.5835
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_02.png.meta": {
+      "time": 1658225542638.5852
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_01_NORM.png.meta": {
+      "time": 1658225542624.584
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Material\\Texture\\Lava floor texture\\melty_02_NM.png.meta": {
+      "time": 1658225542669.5876
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio.meta": {
+      "time": 1641391316256.8992
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio": {
+      "time": 1641540116251.4636,
+      "uuid": "93d62947-05cd-4ef1-884d-5d40322f2032"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\jump.mp3.meta": {
+      "time": 1658225451153.9377
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\jump.mp3": {
+      "time": 1640091893716.6218,
+      "uuid": "d851c18a-5d5f-4baf-a241-1c647287abda"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\ghost.mp3.meta": {
+      "time": 1658225451089.3245
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\ghost.mp3": {
+      "time": 1640091855418.841,
+      "uuid": "1cfc2359-572a-42a5-96c2-d8ae48c4e764"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\sfx-pop2.mp3.meta": {
+      "time": 1658225451299.996
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\sfx-pop2.mp3": {
+      "time": 1640167233006.085,
+      "uuid": "ff178f6c-a8ab-42a2-b25d-ae608180ed1b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\Mystery Manor.mp3.meta": {
+      "time": 1658225451333.5562
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\Mystery Manor.mp3": {
+      "time": 1639647653556.9944,
+      "uuid": "05e8d687-530e-4ab6-9d7f-31a2ee984969"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\Button Sound 44.mp3.meta": {
+      "time": 1658225451109.3245
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\Button Sound 44.mp3": {
+      "time": 1641391759309.6462,
+      "uuid": "463027fe-9946-47ba-b1ca-c5d95ce09e07"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\select_003.mp3.meta": {
+      "time": 1658225451242.9392
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\3d_projects_1\\Helix\\assets\\Audio\\select_003.mp3": {
+      "time": 1641540057034.6895,
+      "uuid": "9a483a4d-1877-40c4-8f45-8bc249a56c15"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio": {
+      "time": 1658393946120.2356,
+      "uuid": "93d62947-05cd-4ef1-884d-5d40322f2032"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\CuteAurora-PK3lZ.ttf": {
+      "time": 1603275464000,
+      "uuid": "b17bfa81-d87a-41f1-b369-d9b92eaddc23"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Daylight Box UV.png": {
+      "time": 1640186888817.1858,
+      "uuid": "fe5f2175-3c45-4a13-ae0d-4a7ccaa851ef"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\ghost.mp3": {
+      "time": 1658393907540.8838,
+      "uuid": "1cfc2359-572a-42a5-96c2-d8ae48c4e764"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\jump.mp3": {
+      "time": 1658393907542.8843,
+      "uuid": "d851c18a-5d5f-4baf-a241-1c647287abda"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material": {
+      "time": 1658393907357.8694,
+      "uuid": "32ab2f0c-4787-4590-84e0-c61ced5a1fa5"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model": {
+      "time": 1658393947354.4546,
+      "uuid": "0c2baf2c-7133-4f38-bca8-93e83c6eaca9"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Mystery Manor.mp3": {
+      "time": 1658393907486.8782,
+      "uuid": "05e8d687-530e-4ab6-9d7f-31a2ee984969"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab": {
+      "time": 1658393947605.1038,
+      "uuid": "e597b7aa-74b3-409e-b1d0-e35d39396300"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Scene": {
+      "time": 1658393907494.8816,
+      "uuid": "4f212335-f3b4-4b56-9bc3-d557af936352"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script": {
+      "time": 1658393907508.8813,
+      "uuid": "e3c2fa54-49df-4dcc-8033-378058db5326"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\sfx-pop2.mp3": {
+      "time": 1658393907579.89,
+      "uuid": "ff178f6c-a8ab-42a2-b25d-ae608180ed1b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Shader": {
+      "time": 1658393907510.882,
+      "uuid": "93d91499-41ef-4173-9554-c4febb79caf2"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI": {
+      "time": 1658393907538.8833,
+      "uuid": "9007b096-c0b6-42ea-b08b-8f1848900d8c"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\Button Sound 44.mp3": {
+      "time": 1641391759309.6462,
+      "uuid": "463027fe-9946-47ba-b1ca-c5d95ce09e07"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\ghost.mp3": {
+      "time": 1640091855418.841,
+      "uuid": "fee915bf-ee47-4440-834f-adbe3b0f79c2"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\jump.mp3": {
+      "time": 1640091893716.6218,
+      "uuid": "5d481b4d-1ec0-416f-927d-3857701d6ed9"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\Mystery Manor.mp3": {
+      "time": 1639647653556.9944,
+      "uuid": "e496c6dc-e7a4-45f1-8da4-9a089681a593"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\select_003.mp3": {
+      "time": 1641540057034.6895,
+      "uuid": "9a483a4d-1877-40c4-8f45-8bc249a56c15"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\sfx-pop2.mp3": {
+      "time": 1640167233006.085,
+      "uuid": "e8a112cb-4d71-476e-95db-d1efbdae0248"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\9615.jpg": {
+      "time": 1639374250629.2466,
+      "uuid": "0cc8a598-f176-45b7-9fc6-b952671832c2"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\BL.mtl": {
+      "time": 1658145121891.8867,
+      "uuid": "f6e5b075-c17f-4ec9-bd35-5e80d2c4cb38"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Black.mtl": {
+      "time": 1658145121883.8838,
+      "uuid": "333c91a6-ff69-4795-a826-d5758966d627"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Fire.mtl": {
+      "time": 1658145121883.8838,
+      "uuid": "f15e3d4f-8935-4271-9993-d3a25d059a5f"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Floor.mtl": {
+      "time": 1658145121951.8936,
+      "uuid": "ca81a323-e9bb-4e6b-b343-322224785f98"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Lava Material.mtl": {
+      "time": 1658145121984.8896,
+      "uuid": "3e719c90-e826-4670-99ab-d247d5483ab4"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Pumpkin.fbx": {
+      "time": 1572849384000,
+      "uuid": "f14b44c1-278f-4cf0-bb14-ef9b53ece5d4"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Red.mtl": {
+      "time": 1658145121997.8943,
+      "uuid": "2c4b20d5-1714-49ae-b8f2-898aac0c7ef6"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Sand.mtl": {
+      "time": 1658145122020.9014,
+      "uuid": "dac05ffd-7b0c-4c4c-b60a-0f302667ffec"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture": {
+      "time": 1658393907352.8716,
+      "uuid": "3f90ac5d-b513-4b35-be17-e8ba0fc8ccde"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Tower.mtl": {
+      "time": 1658145122036.8962,
+      "uuid": "055f57f6-c7c2-439d-8cfa-867531aed46b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\white.mtl": {
+      "time": 1658145122036.8962,
+      "uuid": "cfabf278-f676-449e-afdd-18c318451966"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Yellow.mtl": {
+      "time": 1658145122051.899,
+      "uuid": "a45500ff-d444-4ec3-a993-b1a83ad46130"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Bolt.fbx": {
+      "time": 1640344516518.3286,
+      "uuid": "f5aa8a67-41ac-40f0-87db-de929109fee7"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Capsule.fbx": {
+      "time": 1630826118000,
+      "uuid": "1e303d83-935e-4790-a0ec-717f132fce20"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Fall A Loop.fbx": {
+      "time": 1638771668568.5176,
+      "uuid": "e183c59f-6165-4c39-bd11-7ea0d4662aab"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Jumping Up.fbx": {
+      "time": 1638773251289.1487,
+      "uuid": "4467c028-d887-450a-b8cc-620fc4092b2e"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Mutant Dying.fbx": {
+      "time": 1639550224559.8755,
+      "uuid": "722c69cf-06c1-41d8-b3b6-5502199e7477"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Standing Jump.fbx": {
+      "time": 1639372881131.13,
+      "uuid": "3a0dc1d3-2699-4db4-bc6f-e828a72331bc"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Bolt.prefab": {
+      "time": 1658145126257.132,
+      "uuid": "251402c4-e35e-4466-8ac0-2eda6eb5456a"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Cylinder.prefab": {
+      "time": 1658145126282.1301,
+      "uuid": "47379321-6715-476f-bc1d-930e330816bd"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Fall A Loop.fbx": {
+      "time": 1638771668568.5176,
+      "uuid": "7974ded3-03e5-4e24-9744-eae10c5ce224"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\HelixPart.FBX": {
+      "time": 1637996555119.969,
+      "uuid": "70101ca0-8047-41bc-b323-db8b13c40d2a"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Node-001.prefab": {
+      "time": 1658145141476.2434,
+      "uuid": "fdfbc311-9983-4ca7-841f-8b4f41fa00d4"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Node-002.prefab": {
+      "time": 1658145141521.2454,
+      "uuid": "c1818193-c3d4-4d81-85d2-4d309d566f24"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Node-003.prefab": {
+      "time": 1658145141523.247,
+      "uuid": "93fd48e7-a4ca-4619-9bff-8795ce395283"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Node.prefab": {
+      "time": 1658145141548.2463,
+      "uuid": "7bd162dc-5130-4ae8-9eca-5a3e696337a4"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Particle.prefab": {
+      "time": 1658145141592.2515,
+      "uuid": "5b2479fa-b844-4df3-a6a8-bccac493badf"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Particle_1.prefab": {
+      "time": 1658145141610.2532,
+      "uuid": "5c12299a-79af-4065-bdb5-4b1d16eec3b8"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Scene\\GameOver.scene": {
+      "time": 1658145141635.2544,
+      "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Scene\\scene.scene": {
+      "time": 1659078064517.632,
+      "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Scene\\StartScene.scene": {
+      "time": 1658145141711.258,
+      "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\Ball.ts": {
+      "time": 1659072864777.3076,
+      "uuid": "e6b34b47-3148-4312-8171-643a76e93a87"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\BlockGenration.ts": {
+      "time": 1658215552580.9058,
+      "uuid": "7a960144-a671-4a33-a97e-b7c29abea6ac"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\ButtonFunction.ts": {
+      "time": 1658742497047.5364,
+      "uuid": "0f6c0d63-6980-4a1f-aff9-8716363e08d1"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\Control.ts": {
+      "time": 1659072780272.458,
+      "uuid": "d97fc21c-635e-4c4c-a81a-ed59d365baf3"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\Floorgenration.ts": {
+      "time": 1641564220216.5032,
+      "uuid": "535d1040-0c5a-4be1-880b-38d68a6a69a8"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\NodePrefab.ts": {
+      "time": 1658742636788.3345,
+      "uuid": "82902ea6-9031-491b-a2ff-9d60fcd86719"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\PauseScene.ts": {
+      "time": 1641556903299.695,
+      "uuid": "0a504391-d54a-47a0-8aa0-2dc7b77c9045"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\StartSceneUI.ts": {
+      "time": 1641557251568.607,
+      "uuid": "2ffee3a6-000d-4353-baf2-c84b1014ba77"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\StopGame.ts": {
+      "time": 1641564398305.9294,
+      "uuid": "96b32379-0b56-4914-961a-d49e8f16a9bd"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Shader\\LavaShader.effect": {
+      "time": 1658225468796.3892,
+      "uuid": "b1418f15-2daa-478e-9962-a7d83ac29201"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons": {
+      "time": 1658393907533.8828,
+      "uuid": "bc911034-53dc-4281-b3fd-2a0004a15187"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\GameOver.png": {
+      "time": 1640187568923.6323,
+      "uuid": "4785d328-dfa9-4e35-a442-5743ca1441ce"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Pause.png": {
+      "time": 1640317785402.305,
+      "uuid": "bb4066ac-7cec-4cd3-9d92-d21ace31161b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Title.png": {
+      "time": 1639997686705.483,
+      "uuid": "b6087fd7-928e-4600-a2ff-ae4d24559692"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\1-1-17d.jpg": {
+      "time": 1640068876353.3945,
+      "uuid": "1b22c446-db8b-4913-b2f0-3a426e4b7c3c"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\461223133.jpg": {
+      "time": 1640068800489.3374,
+      "uuid": "29a8db4c-407c-4772-bfbd-7a30ac03fd20"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\dirt-texture.png": {
+      "time": 1640068513919.924,
+      "uuid": "fc0c3661-1f27-42d2-9062-a9ba9140f144"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\DSC07701.JPG": {
+      "time": 1640067754390.3403,
+      "uuid": "55f2fec6-7c8e-4b42-8900-a40e639921f6"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\grasslight-big (2).png": {
+      "time": 1640067307423.491,
+      "uuid": "b6d6f4c7-8e77-451f-a9f1-53c651a9df26"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture": {
+      "time": 1658393907193.8552,
+      "uuid": "c3abec31-d808-4d6b-9d7c-fff14497f220"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava_005_COLOR.jpg": {
+      "time": 1639737369821.0347,
+      "uuid": "0f0c56a4-74ef-4af8-8745-47a564e34857"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava_005_NORM.jpg": {
+      "time": 1639737373068.0786,
+      "uuid": "d2023169-7996-4a22-9167-5b90e2eb6c05"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava_005_OCC.jpg": {
+      "time": 1639738573387.98,
+      "uuid": "fa8969a5-b688-4c35-b566-12ccb236790a"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\sand.png": {
+      "time": 1640068581904.9004,
+      "uuid": "a0919201-e1d8-42f1-97ac-eccc7427a48b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Sky 2.png": {
+      "time": 1640068955922.5325,
+      "uuid": "7a6a7883-2617-4151-bd15-8d37604cab44"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\sky.png": {
+      "time": 1638871118797.343,
+      "uuid": "083bf3ec-3eeb-4190-bb6b-d0015a85a6fe"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\skyorig.png": {
+      "time": 1640067789827.832,
+      "uuid": "f636c7fc-aa90-4f78-8d51-f4c997a26f45"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\stone way- texture.png": {
+      "time": 1640068376402.9724,
+      "uuid": "96be6ccf-6480-408f-9581-2a490cfabb2b"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\stonetexturelowdetail(Light).png": {
+      "time": 1640067460360.051,
+      "uuid": "01c8e81d-e2ee-4348-95aa-71bb4d897e55"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.05.03 AM.jpeg": {
+      "time": 1640064922039.6858,
+      "uuid": "c1637987-3797-4747-80fd-275a514351ce"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.07.56 AM.jpeg": {
+      "time": 1640065085662.3564,
+      "uuid": "b6a0188b-f238-4a32-a33b-9ba5b1c20af8"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.12.38 AM.jpeg": {
+      "time": 1640065371353.2908,
+      "uuid": "d48e1f38-10dd-4fa1-bacb-b5a517393f7d"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.14.29 AM.jpeg": {
+      "time": 1640065478952.3225,
+      "uuid": "0dc5d791-2ca8-4483-8de3-2bef35179f00"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.17.29 AM.jpeg": {
+      "time": 1640065661117.7744,
+      "uuid": "0f712b50-bdd3-4c69-b250-9a28d1dee474"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.23.07 AM.jpeg": {
+      "time": 1640065998433.9622,
+      "uuid": "a0468495-8291-4b9e-a32b-9272d8e2ee91"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_AmbientOcclusion.jpg": {
+      "time": 1627644922158.563,
+      "uuid": "fee9ff40-6dd3-44cc-8b07-1ca26e768d1f"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Color.jpg": {
+      "time": 1627644922142.9368,
+      "uuid": "db2d80a0-3f6c-4b74-b158-a059fa891fa5"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Displacement.jpg": {
+      "time": 1627644922299.1953,
+      "uuid": "163557a8-f085-424f-b390-69ec0a4a4b5f"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_NormalDX.jpg": {
+      "time": 1627644923502.398,
+      "uuid": "a6bc2998-786f-44a7-a0e1-eb30f4fdbc32"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_NormalGL.jpg": {
+      "time": 1627737322858.6912,
+      "uuid": "2bd2c485-456f-4ee6-9d45-ee9bc6ccb68c"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Roughness.jpg": {
+      "time": 1627644923221.1296,
+      "uuid": "1ec86f24-9d77-4eea-8f5e-5fcb9504491d"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Continue.png": {
+      "time": 1640263291984.778,
+      "uuid": "e77c5336-b80d-44ee-9d5f-57b4d0f240ee"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\ContinuePressed.png": {
+      "time": 1640265660389.032,
+      "uuid": "de2a3785-631a-4d86-bb07-fe35f4511ada"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Exit.png": {
+      "time": 1640187489837.4907,
+      "uuid": "fcdf465b-f8df-43fe-8d03-5e02faccfa65"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\ExitPressed.png": {
+      "time": 1640187525793.2385,
+      "uuid": "dabe3155-b1cc-4ed7-9b17-f1b9e9237617"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Pause.png": {
+      "time": 1640270893799.4282,
+      "uuid": "dce650d4-6481-4fd1-8e90-645504796169"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\PausePressed.png": {
+      "time": 1640270893799.4282,
+      "uuid": "ae592afb-1e1f-4931-a688-e55ec2f70a29"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\play.png": {
+      "time": 1640151629310.5234,
+      "uuid": "178adfff-74ee-4b9c-8403-9086209d8222"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\PlayPressed.png": {
+      "time": 1640166639366.5974,
+      "uuid": "ce65e4e0-39df-4fcd-89f6-4653906e1f05"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Restart.png": {
+      "time": 1640265691790.6853,
+      "uuid": "40e4a2a2-677d-41a6-a288-3fc617fc0dfe"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\RestartPressed.png": {
+      "time": 1640265783416.4573,
+      "uuid": "4ffd92fe-b8f6-469c-baf3-94c62b72e94d"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Resume.png": {
+      "time": 1640317902792.556,
+      "uuid": "f432930b-8b82-461a-9237-9aa732ad4efb"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\ResumePressed.png": {
+      "time": 1640317926393.4666,
+      "uuid": "064caaf4-49dd-4286-80b5-54d5d97813ed"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_01.png": {
+      "time": 1640426944095.468,
+      "uuid": "d2973970-bdf4-496d-a0d5-e6d635931dc1"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_01_NORM.png": {
+      "time": 1640426943697.8364,
+      "uuid": "8f09e4a3-48b3-4270-8ce7-255224c7fa7f"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_02.png": {
+      "time": 1640426940548.2915,
+      "uuid": "30d35bc1-d3f5-4214-83be-05c96954945a"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_02_NM.png": {
+      "time": 1640426940344.2651,
+      "uuid": "8f20ea5d-b886-4271-8c61-b25944031d72"
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio.meta": {
+      "time": 1641391316256.8992
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material.meta": {
+      "time": 1638002928578.3352
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model.meta": {
+      "time": 1638182388041.4338
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\CuteAurora-PK3lZ.ttf.meta": {
+      "time": 1658225449820.635
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab.meta": {
+      "time": 1638182359364.0774
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Scene.meta": {
+      "time": 1638182425146.4675
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script.meta": {
+      "time": 1637921441287.715
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\ghost.mp3.meta": {
+      "time": 1658740092221.2676
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\jump.mp3.meta": {
+      "time": 1658740092225.2627
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Shader.meta": {
+      "time": 1639746220130.0964
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI.meta": {
+      "time": 1640183045895.017
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Mystery Manor.mp3.meta": {
+      "time": 1658740092240.2656
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\sfx-pop2.mp3.meta": {
+      "time": 1658740092366.6414
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\ghost.mp3.meta": {
+      "time": 1658739039006.3286
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\jump.mp3.meta": {
+      "time": 1658739039009.33
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\Button Sound 44.mp3.meta": {
+      "time": 1658225451109.3245
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\select_003.mp3.meta": {
+      "time": 1658225451242.9392
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\sfx-pop2.mp3.meta": {
+      "time": 1658739039024.3577
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Audio\\Mystery Manor.mp3.meta": {
+      "time": 1658739039019.3328
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\BL.mtl.meta": {
+      "time": 1658145121949.8923
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Black.mtl.meta": {
+      "time": 1658145121933.8967
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Fire.mtl.meta": {
+      "time": 1658145121935.894
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\9615.jpg.meta": {
+      "time": 1658145122000.8962
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Floor.mtl.meta": {
+      "time": 1658145121985.8945
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture.meta": {
+      "time": 1638770430448.4844
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Red.mtl.meta": {
+      "time": 1658145122023.8958
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\white.mtl.meta": {
+      "time": 1658145122052.8972
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Yellow.mtl.meta": {
+      "time": 1658145122065.898
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Bolt.fbx.meta": {
+      "time": 1658225452429.9507
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Capsule.fbx.meta": {
+      "time": 1658225453462.6714
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Daylight Box UV.png.meta": {
+      "time": 1658225452824.2302
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Pumpkin.fbx.meta": {
+      "time": 1658225456290.342
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Bolt.prefab.meta": {
+      "time": 1658145126269.1282
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Cylinder.prefab.meta": {
+      "time": 1658145126312.1316
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Fall A Loop.fbx.meta": {
+      "time": 1658225467994.2
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Jumping Up.fbx.meta": {
+      "time": 1658225468485.4775
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\HelixPart.FBX.meta": {
+      "time": 1658225469101.2231
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Node-001.prefab.meta": {
+      "time": 1658145141528.2468
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Node-002.prefab.meta": {
+      "time": 1658145141565.252
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Node-003.prefab.meta": {
+      "time": 1658145141562.2498
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Node.prefab.meta": {
+      "time": 1658145141613.2532
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Particle.prefab.meta": {
+      "time": 1658145141649.2551
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Particle_1.prefab.meta": {
+      "time": 1658145141665.2551
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Mutant Dying.fbx.meta": {
+      "time": 1658225468509.4773
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Scene\\GameOver.scene.meta": {
+      "time": 1658145142015.239
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Scene\\scene.scene.meta": {
+      "time": 1658145142016.2375
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Scene\\StartScene.scene.meta": {
+      "time": 1658145142031.237
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\Ball.ts.meta": {
+      "time": 1658138783448.775
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\BlockGenration.ts.meta": {
+      "time": 1658138783455.7737
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\ButtonFunction.ts.meta": {
+      "time": 1658138783468.7744
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\Control.ts.meta": {
+      "time": 1658138783476.7766
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\Floorgenration.ts.meta": {
+      "time": 1658138783480.7769
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\NodePrefab.ts.meta": {
+      "time": 1658138783484.7769
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\PauseScene.ts.meta": {
+      "time": 1658138783486.7756
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\StartSceneUI.ts.meta": {
+      "time": 1658138783495.7756
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons.meta": {
+      "time": 1640183058030.4348
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Script\\StopGame.ts.meta": {
+      "time": 1658138783497.7756
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Shader\\LavaShader.effect.meta": {
+      "time": 1658225469031.2166
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Tower.mtl.meta": {
+      "time": 1658145142077.247
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Lava Material.mtl.meta": {
+      "time": 1658145142076.2651
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Sand.mtl.meta": {
+      "time": 1658145142079.2449
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\GameOver.png.meta": {
+      "time": 1658225469140.2256
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Pause.png.meta": {
+      "time": 1658225469133.2268
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Model\\Standing Jump.fbx.meta": {
+      "time": 1658225468420.8308
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Title.png.meta": {
+      "time": 1658225469153.2278
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\461223133.jpg.meta": {
+      "time": 1658145142130.2449
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\prefab\\Fall A Loop.fbx.meta": {
+      "time": 1658225468777.8357
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture.meta": {
+      "time": 1640426996228.5913
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\dirt-texture.png.meta": {
+      "time": 1658225469202.2334
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\1-1-17d.jpg.meta": {
+      "time": 1658145142150.245
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava_005_COLOR.jpg.meta": {
+      "time": 1658145142236.2534
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava_005_OCC.jpg.meta": {
+      "time": 1658145142290.2568
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava_005_NORM.jpg.meta": {
+      "time": 1658145142245.2534
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\grasslight-big (2).png.meta": {
+      "time": 1658225469248.235
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\sand.png.meta": {
+      "time": 1658225541563.4966
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\sky.png.meta": {
+      "time": 1658225541605.5005
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\stone way- texture.png.meta": {
+      "time": 1658225541617.5027
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\stonetexturelowdetail(Light).png.meta": {
+      "time": 1658225541662.5063
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.05.03 AM.jpeg.meta": {
+      "time": 1658145205388.9753
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.07.56 AM.jpeg.meta": {
+      "time": 1658145205415.9695
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.12.38 AM.jpeg.meta": {
+      "time": 1658145205425.9702
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.14.29 AM.jpeg.meta": {
+      "time": 1658145205444.9714
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.17.29 AM.jpeg.meta": {
+      "time": 1658145205455.9724
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.23.07 AM.jpeg.meta": {
+      "time": 1658145205478.9739
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\skyorig.png.meta": {
+      "time": 1658225541985.5315
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_AmbientOcclusion.jpg.meta": {
+      "time": 1658145205492.974
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Color.jpg.meta": {
+      "time": 1658145205524.978
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Displacement.jpg.meta": {
+      "time": 1658145205536.977
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_NormalDX.jpg.meta": {
+      "time": 1658145205634.8833
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_NormalGL.jpg.meta": {
+      "time": 1658145205653.8867
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Roughness.jpg.meta": {
+      "time": 1658145205702.8918
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Continue.png.meta": {
+      "time": 1658225542169.5476
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\ContinuePressed.png.meta": {
+      "time": 1658225542204.5496
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Exit.png.meta": {
+      "time": 1658225542254.5537
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Pause.png.meta": {
+      "time": 1658225542375.564
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\PausePressed.png.meta": {
+      "time": 1658225542379.566
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\ExitPressed.png.meta": {
+      "time": 1658225542344.5625
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Sky 2.png.meta": {
+      "time": 1658225542275.5554
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\play.png.meta": {
+      "time": 1658225542419.5671
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Restart.png.meta": {
+      "time": 1658225542550.579
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\PlayPressed.png.meta": {
+      "time": 1658225542516.5752
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\RestartPressed.png.meta": {
+      "time": 1658225542539.577
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\Resume.png.meta": {
+      "time": 1658225542564.579
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_01.png.meta": {
+      "time": 1658225542610.5835
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\UI\\Buttons\\ResumePressed.png.meta": {
+      "time": 1658225542649.5862
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_01_NORM.png.meta": {
+      "time": 1658225542624.584
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_02.png.meta": {
+      "time": 1658225542638.5852
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_02_NM.png.meta": {
+      "time": 1658225542669.5876
+    },
+    "C:\\Users\\Asus\\Documents\\GameTathya\\Games\\MummyFall\\assets\\Material\\Texture\\DSC07701.JPG.meta": {
+      "time": 1658225543813.642
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio": {
+      "time": 1707630792257.643,
+      "uuid": "93d62947-05cd-4ef1-884d-5d40322f2032"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material": {
+      "time": 1707630792334.493,
+      "uuid": "32ab2f0c-4787-4590-84e0-c61ced5a1fa5"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model": {
+      "time": 1707630792739.78,
+      "uuid": "0c2baf2c-7133-4f38-bca8-93e83c6eaca9"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab": {
+      "time": 1707630792800.9124,
+      "uuid": "e597b7aa-74b3-409e-b1d0-e35d39396300"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Scene": {
+      "time": 1707630792808.3132,
+      "uuid": "4f212335-f3b4-4b56-9bc3-d557af936352"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script": {
+      "time": 1707630792822.0637,
+      "uuid": "e3c2fa54-49df-4dcc-8033-378058db5326"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Shader": {
+      "time": 1707630792827.616,
+      "uuid": "93d91499-41ef-4173-9554-c4febb79caf2"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI": {
+      "time": 1707630792835.255,
+      "uuid": "9007b096-c0b6-42ea-b08b-8f1848900d8c"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture": {
+      "time": 1707630792566.489,
+      "uuid": "3f90ac5d-b513-4b35-be17-e8ba0fc8ccde"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons": {
+      "time": 1707630792854.495,
+      "uuid": "bc911034-53dc-4281-b3fd-2a0004a15187"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture": {
+      "time": 1707630792584.7507,
+      "uuid": "c3abec31-d808-4d6b-9d7c-fff14497f220"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Shader\\LavaShader.effect": {
+      "time": 1707631134766.7578,
+      "uuid": "b1418f15-2daa-478e-9962-a7d83ac29201"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\Ball.ts": {
+      "time": 1659072864777.3076,
+      "uuid": "e6b34b47-3148-4312-8171-643a76e93a87"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\BlockGenration.ts": {
+      "time": 1658215552580.9058,
+      "uuid": "7a960144-a671-4a33-a97e-b7c29abea6ac"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\ButtonFunction.ts": {
+      "time": 1658742497047.5364,
+      "uuid": "0f6c0d63-6980-4a1f-aff9-8716363e08d1"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\Control.ts": {
+      "time": 1659072780272.458,
+      "uuid": "d97fc21c-635e-4c4c-a81a-ed59d365baf3"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\Floorgenration.ts": {
+      "time": 1641564220216.5032,
+      "uuid": "535d1040-0c5a-4be1-880b-38d68a6a69a8"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\NodePrefab.ts": {
+      "time": 1658742636788.3345,
+      "uuid": "82902ea6-9031-491b-a2ff-9d60fcd86719"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\PauseScene.ts": {
+      "time": 1641556903299.695,
+      "uuid": "0a504391-d54a-47a0-8aa0-2dc7b77c9045"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\StartSceneUI.ts": {
+      "time": 1641557251568.607,
+      "uuid": "2ffee3a6-000d-4353-baf2-c84b1014ba77"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\StopGame.ts": {
+      "time": 1641564398305.9294,
+      "uuid": "96b32379-0b56-4914-961a-d49e8f16a9bd"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio.meta": {
+      "time": 1707631134690.2305
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material.meta": {
+      "time": 1707631134690.2305
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model.meta": {
+      "time": 1707631134690.2305
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab.meta": {
+      "time": 1707631134691.234
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Scene.meta": {
+      "time": 1707631134691.234
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script.meta": {
+      "time": 1707631134694.7585
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Shader.meta": {
+      "time": 1707631134696.7727
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI.meta": {
+      "time": 1707631134698.334
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture.meta": {
+      "time": 1707631134700.3174
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons.meta": {
+      "time": 1707631134700.3174
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture.meta": {
+      "time": 1707631134701.3164
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\Ball.ts.meta": {
+      "time": 1658138783448.775
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\BlockGenration.ts.meta": {
+      "time": 1658138783455.7737
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\ButtonFunction.ts.meta": {
+      "time": 1658138783468.7744
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\Control.ts.meta": {
+      "time": 1658138783476.7766
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\Floorgenration.ts.meta": {
+      "time": 1658138783480.7769
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\NodePrefab.ts.meta": {
+      "time": 1658138783484.7769
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\PauseScene.ts.meta": {
+      "time": 1658138783486.7756
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\StartSceneUI.ts.meta": {
+      "time": 1658138783495.7756
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Shader\\LavaShader.effect.meta": {
+      "time": 1707631134843.0686
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Script\\StopGame.ts.meta": {
+      "time": 1658138783497.7756
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\CuteAurora-PK3lZ.ttf": {
+      "time": 1603275464000,
+      "uuid": "b17bfa81-d87a-41f1-b369-d9b92eaddc23"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Daylight Box UV.png": {
+      "time": 1640186888817.1858,
+      "uuid": "fe5f2175-3c45-4a13-ae0d-4a7ccaa851ef"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\ghost.mp3": {
+      "time": 1658393907540.8838,
+      "uuid": "1cfc2359-572a-42a5-96c2-d8ae48c4e764"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\jump.mp3": {
+      "time": 1658393907542.8843,
+      "uuid": "d851c18a-5d5f-4baf-a241-1c647287abda"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Mystery Manor.mp3": {
+      "time": 1658393907486.8782,
+      "uuid": "05e8d687-530e-4ab6-9d7f-31a2ee984969"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\sfx-pop2.mp3": {
+      "time": 1658393907579.89,
+      "uuid": "ff178f6c-a8ab-42a2-b25d-ae608180ed1b"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\Button Sound 44.mp3": {
+      "time": 1641391759309.6462,
+      "uuid": "463027fe-9946-47ba-b1ca-c5d95ce09e07"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\ghost.mp3": {
+      "time": 1640091855418.841,
+      "uuid": "fee915bf-ee47-4440-834f-adbe3b0f79c2"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\jump.mp3": {
+      "time": 1640091893716.6218,
+      "uuid": "5d481b4d-1ec0-416f-927d-3857701d6ed9"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\Mystery Manor.mp3": {
+      "time": 1639647653556.9944,
+      "uuid": "e496c6dc-e7a4-45f1-8da4-9a089681a593"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\select_003.mp3": {
+      "time": 1641540057034.6895,
+      "uuid": "9a483a4d-1877-40c4-8f45-8bc249a56c15"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\sfx-pop2.mp3": {
+      "time": 1640167233006.085,
+      "uuid": "e8a112cb-4d71-476e-95db-d1efbdae0248"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\9615.jpg": {
+      "time": 1639374250629.2466,
+      "uuid": "0cc8a598-f176-45b7-9fc6-b952671832c2"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\BL.mtl": {
+      "time": 1707631139499.8486,
+      "uuid": "f6e5b075-c17f-4ec9-bd35-5e80d2c4cb38"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Black.mtl": {
+      "time": 1707631139499.8486,
+      "uuid": "333c91a6-ff69-4795-a826-d5758966d627"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Fire.mtl": {
+      "time": 1707631139538.065,
+      "uuid": "f15e3d4f-8935-4271-9993-d3a25d059a5f"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Floor.mtl": {
+      "time": 1707631139556.6316,
+      "uuid": "ca81a323-e9bb-4e6b-b343-322224785f98"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Lava Material.mtl": {
+      "time": 1707631139556.6316,
+      "uuid": "3e719c90-e826-4670-99ab-d247d5483ab4"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Pumpkin.fbx": {
+      "time": 1572849384000,
+      "uuid": "f14b44c1-278f-4cf0-bb14-ef9b53ece5d4"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Red.mtl": {
+      "time": 1707631139616.8677,
+      "uuid": "2c4b20d5-1714-49ae-b8f2-898aac0c7ef6"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Sand.mtl": {
+      "time": 1707631139618.1157,
+      "uuid": "dac05ffd-7b0c-4c4c-b60a-0f302667ffec"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Tower.mtl": {
+      "time": 1707631139618.1157,
+      "uuid": "055f57f6-c7c2-439d-8cfa-867531aed46b"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\white.mtl": {
+      "time": 1707631139703.8782,
+      "uuid": "cfabf278-f676-449e-afdd-18c318451966"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Yellow.mtl": {
+      "time": 1707631139703.8782,
+      "uuid": "a45500ff-d444-4ec3-a993-b1a83ad46130"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Bolt.fbx": {
+      "time": 1640344516518.3286,
+      "uuid": "f5aa8a67-41ac-40f0-87db-de929109fee7"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Capsule.fbx": {
+      "time": 1630826118000,
+      "uuid": "1e303d83-935e-4790-a0ec-717f132fce20"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Fall A Loop.fbx": {
+      "time": 1638771668568.5176,
+      "uuid": "e183c59f-6165-4c39-bd11-7ea0d4662aab"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Jumping Up.fbx": {
+      "time": 1638773251289.1487,
+      "uuid": "4467c028-d887-450a-b8cc-620fc4092b2e"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Mutant Dying.fbx": {
+      "time": 1639550224559.8755,
+      "uuid": "722c69cf-06c1-41d8-b3b6-5502199e7477"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Standing Jump.fbx": {
+      "time": 1639372881131.13,
+      "uuid": "3a0dc1d3-2699-4db4-bc6f-e828a72331bc"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Bolt.prefab": {
+      "time": 1707631140308.5383,
+      "uuid": "251402c4-e35e-4466-8ac0-2eda6eb5456a"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Cylinder.prefab": {
+      "time": 1707631140351.741,
+      "uuid": "47379321-6715-476f-bc1d-930e330816bd"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Fall A Loop.fbx": {
+      "time": 1638771668568.5176,
+      "uuid": "7974ded3-03e5-4e24-9744-eae10c5ce224"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\HelixPart.FBX": {
+      "time": 1637996555119.969,
+      "uuid": "70101ca0-8047-41bc-b323-db8b13c40d2a"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Node-001.prefab": {
+      "time": 1707631143118.5898,
+      "uuid": "fdfbc311-9983-4ca7-841f-8b4f41fa00d4"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Node-002.prefab": {
+      "time": 1707631143127.8303,
+      "uuid": "c1818193-c3d4-4d81-85d2-4d309d566f24"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Node-003.prefab": {
+      "time": 1707631143128.8306,
+      "uuid": "93fd48e7-a4ca-4619-9bff-8795ce395283"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Node.prefab": {
+      "time": 1707631143152.77,
+      "uuid": "7bd162dc-5130-4ae8-9eca-5a3e696337a4"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Particle.prefab": {
+      "time": 1707631143151.7886,
+      "uuid": "5b2479fa-b844-4df3-a6a8-bccac493badf"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Particle_1.prefab": {
+      "time": 1707631143157.3193,
+      "uuid": "5c12299a-79af-4065-bdb5-4b1d16eec3b8"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Scene\\GameOver.scene": {
+      "time": 1707631143156.7708,
+      "uuid": "900a3030-0f5b-465b-99a7-51f3cf685f4b"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Scene\\scene.scene": {
+      "time": 1707631143177.3953,
+      "uuid": "37d44b5b-ed77-49c3-befb-bba071de73c2"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Scene\\StartScene.scene": {
+      "time": 1707631143183.4014,
+      "uuid": "9ed9967d-8d49-4c2a-8c22-ef655c198eef"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\GameOver.png": {
+      "time": 1640187568923.6323,
+      "uuid": "4785d328-dfa9-4e35-a442-5743ca1441ce"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Pause.png": {
+      "time": 1640317785402.305,
+      "uuid": "bb4066ac-7cec-4cd3-9d92-d21ace31161b"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Title.png": {
+      "time": 1639997686705.483,
+      "uuid": "b6087fd7-928e-4600-a2ff-ae4d24559692"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\1-1-17d.jpg": {
+      "time": 1640068876353.3945,
+      "uuid": "1b22c446-db8b-4913-b2f0-3a426e4b7c3c"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\461223133.jpg": {
+      "time": 1640068800489.3374,
+      "uuid": "29a8db4c-407c-4772-bfbd-7a30ac03fd20"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\dirt-texture.png": {
+      "time": 1640068513919.924,
+      "uuid": "fc0c3661-1f27-42d2-9062-a9ba9140f144"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\DSC07701.JPG": {
+      "time": 1640067754390.3403,
+      "uuid": "55f2fec6-7c8e-4b42-8900-a40e639921f6"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\grasslight-big (2).png": {
+      "time": 1640067307423.491,
+      "uuid": "b6d6f4c7-8e77-451f-a9f1-53c651a9df26"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava_005_COLOR.jpg": {
+      "time": 1639737369821.0347,
+      "uuid": "0f0c56a4-74ef-4af8-8745-47a564e34857"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava_005_NORM.jpg": {
+      "time": 1639737373068.0786,
+      "uuid": "d2023169-7996-4a22-9167-5b90e2eb6c05"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava_005_OCC.jpg": {
+      "time": 1639738573387.98,
+      "uuid": "fa8969a5-b688-4c35-b566-12ccb236790a"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\sand.png": {
+      "time": 1640068581904.9004,
+      "uuid": "a0919201-e1d8-42f1-97ac-eccc7427a48b"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Sky 2.png": {
+      "time": 1640068955922.5325,
+      "uuid": "7a6a7883-2617-4151-bd15-8d37604cab44"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\sky.png": {
+      "time": 1638871118797.343,
+      "uuid": "083bf3ec-3eeb-4190-bb6b-d0015a85a6fe"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\skyorig.png": {
+      "time": 1640067789827.832,
+      "uuid": "f636c7fc-aa90-4f78-8d51-f4c997a26f45"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\stone way- texture.png": {
+      "time": 1640068376402.9724,
+      "uuid": "96be6ccf-6480-408f-9581-2a490cfabb2b"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\stonetexturelowdetail(Light).png": {
+      "time": 1640067460360.051,
+      "uuid": "01c8e81d-e2ee-4348-95aa-71bb4d897e55"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.05.03 AM.jpeg": {
+      "time": 1640064922039.6858,
+      "uuid": "c1637987-3797-4747-80fd-275a514351ce"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.07.56 AM.jpeg": {
+      "time": 1640065085662.3564,
+      "uuid": "b6a0188b-f238-4a32-a33b-9ba5b1c20af8"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.12.38 AM.jpeg": {
+      "time": 1640065371353.2908,
+      "uuid": "d48e1f38-10dd-4fa1-bacb-b5a517393f7d"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.14.29 AM.jpeg": {
+      "time": 1640065478952.3225,
+      "uuid": "0dc5d791-2ca8-4483-8de3-2bef35179f00"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.17.29 AM.jpeg": {
+      "time": 1640065661117.7744,
+      "uuid": "0f712b50-bdd3-4c69-b250-9a28d1dee474"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.23.07 AM.jpeg": {
+      "time": 1640065998433.9622,
+      "uuid": "a0468495-8291-4b9e-a32b-9272d8e2ee91"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_AmbientOcclusion.jpg": {
+      "time": 1627644922158.563,
+      "uuid": "fee9ff40-6dd3-44cc-8b07-1ca26e768d1f"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Color.jpg": {
+      "time": 1627644922142.9368,
+      "uuid": "db2d80a0-3f6c-4b74-b158-a059fa891fa5"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Displacement.jpg": {
+      "time": 1627644922299.1953,
+      "uuid": "163557a8-f085-424f-b390-69ec0a4a4b5f"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_NormalDX.jpg": {
+      "time": 1627644923502.398,
+      "uuid": "a6bc2998-786f-44a7-a0e1-eb30f4fdbc32"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_NormalGL.jpg": {
+      "time": 1627737322858.6912,
+      "uuid": "2bd2c485-456f-4ee6-9d45-ee9bc6ccb68c"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Roughness.jpg": {
+      "time": 1627644923221.1296,
+      "uuid": "1ec86f24-9d77-4eea-8f5e-5fcb9504491d"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Continue.png": {
+      "time": 1640263291984.778,
+      "uuid": "e77c5336-b80d-44ee-9d5f-57b4d0f240ee"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\ContinuePressed.png": {
+      "time": 1640265660389.032,
+      "uuid": "de2a3785-631a-4d86-bb07-fe35f4511ada"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Exit.png": {
+      "time": 1640187489837.4907,
+      "uuid": "fcdf465b-f8df-43fe-8d03-5e02faccfa65"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\ExitPressed.png": {
+      "time": 1640187525793.2385,
+      "uuid": "dabe3155-b1cc-4ed7-9b17-f1b9e9237617"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Pause.png": {
+      "time": 1640270893799.4282,
+      "uuid": "dce650d4-6481-4fd1-8e90-645504796169"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\PausePressed.png": {
+      "time": 1640270893799.4282,
+      "uuid": "ae592afb-1e1f-4931-a688-e55ec2f70a29"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\play.png": {
+      "time": 1640151629310.5234,
+      "uuid": "178adfff-74ee-4b9c-8403-9086209d8222"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\PlayPressed.png": {
+      "time": 1640166639366.5974,
+      "uuid": "ce65e4e0-39df-4fcd-89f6-4653906e1f05"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Restart.png": {
+      "time": 1640265691790.6853,
+      "uuid": "40e4a2a2-677d-41a6-a288-3fc617fc0dfe"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\RestartPressed.png": {
+      "time": 1640265783416.4573,
+      "uuid": "4ffd92fe-b8f6-469c-baf3-94c62b72e94d"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Resume.png": {
+      "time": 1640317902792.556,
+      "uuid": "f432930b-8b82-461a-9237-9aa732ad4efb"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\ResumePressed.png": {
+      "time": 1640317926393.4666,
+      "uuid": "064caaf4-49dd-4286-80b5-54d5d97813ed"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_01.png": {
+      "time": 1640426944095.468,
+      "uuid": "d2973970-bdf4-496d-a0d5-e6d635931dc1"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_01_NORM.png": {
+      "time": 1640426943697.8364,
+      "uuid": "8f09e4a3-48b3-4270-8ce7-255224c7fa7f"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_02.png": {
+      "time": 1640426940548.2915,
+      "uuid": "30d35bc1-d3f5-4214-83be-05c96954945a"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_02_NM.png": {
+      "time": 1640426940344.2651,
+      "uuid": "8f20ea5d-b886-4271-8c61-b25944031d72"
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\CuteAurora-PK3lZ.ttf.meta": {
+      "time": 1658225449820.635
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Mystery Manor.mp3.meta": {
+      "time": 1658740092240.2656
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\ghost.mp3.meta": {
+      "time": 1658740092221.2676
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\jump.mp3.meta": {
+      "time": 1658740092225.2627
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\sfx-pop2.mp3.meta": {
+      "time": 1658740092366.6414
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\Button Sound 44.mp3.meta": {
+      "time": 1658225451109.3245
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\Mystery Manor.mp3.meta": {
+      "time": 1658739039019.3328
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\jump.mp3.meta": {
+      "time": 1658739039009.33
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\select_003.mp3.meta": {
+      "time": 1658225451242.9392
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\ghost.mp3.meta": {
+      "time": 1658739039006.3286
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Audio\\sfx-pop2.mp3.meta": {
+      "time": 1658739039024.3577
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Black.mtl.meta": {
+      "time": 1707631139524.954
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\BL.mtl.meta": {
+      "time": 1707631139524.954
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Fire.mtl.meta": {
+      "time": 1707631139556.6316
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\9615.jpg.meta": {
+      "time": 1707631139588.468
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Floor.mtl.meta": {
+      "time": 1707631139588.468
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Lava Material.mtl.meta": {
+      "time": 1707631139606.531
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Red.mtl.meta": {
+      "time": 1707631139640.2322
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Sand.mtl.meta": {
+      "time": 1707631139641.2556
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Tower.mtl.meta": {
+      "time": 1707631139700.8784
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Yellow.mtl.meta": {
+      "time": 1707631139722.6423
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\white.mtl.meta": {
+      "time": 1707631139723.646
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Daylight Box UV.png.meta": {
+      "time": 1707631139770.4788
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Bolt.fbx.meta": {
+      "time": 1707631139831.7986
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Capsule.fbx.meta": {
+      "time": 1707631139971.1323
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Pumpkin.fbx.meta": {
+      "time": 1707631140293.511
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Bolt.prefab.meta": {
+      "time": 1707631140309.5366
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Cylinder.prefab.meta": {
+      "time": 1707631140352.7412
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Fall A Loop.fbx.meta": {
+      "time": 1707631142702.9292
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Jumping Up.fbx.meta": {
+      "time": 1707631143098.5032
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Standing Jump.fbx.meta": {
+      "time": 1707631143103.5876
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Model\\Mutant Dying.fbx.meta": {
+      "time": 1707631143105.5676
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Node-001.prefab.meta": {
+      "time": 1707631143119.5947
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Fall A Loop.fbx.meta": {
+      "time": 1707631143129.8308
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Node-002.prefab.meta": {
+      "time": 1707631143131.8306
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Node-003.prefab.meta": {
+      "time": 1707631143132.858
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Particle.prefab.meta": {
+      "time": 1707631143153.7693
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Node.prefab.meta": {
+      "time": 1707631143154.7913
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Scene\\GameOver.scene.meta": {
+      "time": 1707631143158.349
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\Particle_1.prefab.meta": {
+      "time": 1707631143159.3267
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\prefab\\HelixPart.FBX.meta": {
+      "time": 1707631143173.8723
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Scene\\scene.scene.meta": {
+      "time": 1707631143180.4016
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Pause.png.meta": {
+      "time": 1707631143184.4014
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\GameOver.png.meta": {
+      "time": 1707631143184.4014
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Scene\\StartScene.scene.meta": {
+      "time": 1707631143185.401
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Title.png.meta": {
+      "time": 1707631143196.4585
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\461223133.jpg.meta": {
+      "time": 1707631143204.7642
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\dirt-texture.png.meta": {
+      "time": 1707631143209.8484
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\1-1-17d.jpg.meta": {
+      "time": 1707631143210.8481
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava_005_COLOR.jpg.meta": {
+      "time": 1707631143224.4172
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava_005_NORM.jpg.meta": {
+      "time": 1707631143224.4172
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\grasslight-big (2).png.meta": {
+      "time": 1707631143226.9224
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava_005_OCC.jpg.meta": {
+      "time": 1707631143227.928
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\sand.png.meta": {
+      "time": 1707631159197.0908
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\sky.png.meta": {
+      "time": 1707631162686.5034
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\stone way- texture.png.meta": {
+      "time": 1707631162696.4993
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.05.03 AM.jpeg.meta": {
+      "time": 1707631162713.5308
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\DSC07701.JPG.meta": {
+      "time": 1707631162714.5327
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.07.56 AM.jpeg.meta": {
+      "time": 1707631162743.1118
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.12.38 AM.jpeg.meta": {
+      "time": 1707631162744.1094
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\stonetexturelowdetail(Light).png.meta": {
+      "time": 1707631162745.1084
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.17.29 AM.jpeg.meta": {
+      "time": 1707631162760.1096
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.14.29 AM.jpeg.meta": {
+      "time": 1707631162760.1096
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WhatsApp Image 2021-12-21 at 11.23.07 AM.jpeg.meta": {
+      "time": 1707631162766.1113
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_AmbientOcclusion.jpg.meta": {
+      "time": 1707631162772.1106
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\skyorig.png.meta": {
+      "time": 1707631162774.1086
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Color.jpg.meta": {
+      "time": 1707631162775.1091
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Displacement.jpg.meta": {
+      "time": 1707631162784.1084
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_NormalDX.jpg.meta": {
+      "time": 1707631162787.107
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_Roughness.jpg.meta": {
+      "time": 1707631162790.1084
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\WoodFloor041_1K_NormalGL.jpg.meta": {
+      "time": 1707631162794.1084
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Continue.png.meta": {
+      "time": 1707631162802.1118
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\ContinuePressed.png.meta": {
+      "time": 1707631162805.1106
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Sky 2.png.meta": {
+      "time": 1707631162810.1167
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Exit.png.meta": {
+      "time": 1707631162813.1155
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\ExitPressed.png.meta": {
+      "time": 1707631162815.1155
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Pause.png.meta": {
+      "time": 1707631162822.119
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\PausePressed.png.meta": {
+      "time": 1707631162824.6667
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\play.png.meta": {
+      "time": 1707631162831.6675
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\PlayPressed.png.meta": {
+      "time": 1707631162833.666
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Restart.png.meta": {
+      "time": 1707631162836.6658
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\RestartPressed.png.meta": {
+      "time": 1707631162841.6667
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\Resume.png.meta": {
+      "time": 1707631162843.666
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\UI\\Buttons\\ResumePressed.png.meta": {
+      "time": 1707631162853.6653
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_01.png.meta": {
+      "time": 1707631162855.666
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_01_NORM.png.meta": {
+      "time": 1707631162856.6677
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_02.png.meta": {
+      "time": 1707631162857.6655
+    },
+    "E:\\Cocos_Projects\\MummyFall\\assets\\Material\\Texture\\Lava floor texture\\melty_02_NM.png.meta": {
+      "time": 1707631162865.6667
+    }
+  },
+  "missing": {
+    "f53bb0c0-b34f-43f2-8703-342df3b2711d": {
+      "path": "N:\\COCOS Projects\\Helix\\assets\\Script\\Floorgenration.ts",
+      "time": 1640928930377.4692,
+      "removeTime": 1707631134436
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.Material",
+  "_name": "Sand",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "b1418f15-2daa-478e-9962-a7d83ac29201",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": "0",
+  "_defines": [
+    {}
+  ],
+  "_states": [
+    {
+      "priority": 1,
+      "rasterizerState": {
+        "lineWidth": 0.5
+      },
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "mainTexture": {
+        "__uuid__": "d48e1f38-10dd-4fa1-bacb-b5a517393f7d@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 163,
+        "g": 163,
+        "b": 163,
+        "a": 255
+      }
+    }
+  ]
+}

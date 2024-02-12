@@ -1,0 +1,357 @@
+{
+  "__version__": "1.0.2",
+  "builder": {
+    "taskOptionsMap": {
+      "1638872765050": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "41fPUc0nVMUYjEpI",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1638873001059": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "84qcQQQ4FCKLO82K",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1639147286920": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "719lUDJ1hFDoCMlo",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1639753780311": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "33BtNWQEZITq8h52",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640010804576": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "10qjgg1dJF94u7Vm",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640080993477": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "fcaDoCgVVHLKXF7y",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640082724523": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "73qYSBM4ZA8Zrnf/",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640089089063": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "23PNUGcOBAcKkRvu",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640090571468": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "586MpMOMNBRZ5p9U",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640092093890": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "2fIvO4xvVPhIKBFF",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640092943056": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "2a5iw+E/xNiI59mv",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640177731403": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "d9xMTdNoZCAJCJG/",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640188341533": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "43LI7eUxFA15zw76",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640929032244": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "ceBDdGt2BL5aa3lv",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640932112384": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "26Q9kLHY5DgZ8KGY",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1640933504265": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "21vQDEJQZDlo54Qb",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1641299293813": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "4cyw0Q8m9OCpo9q7",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1641559167039": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "e3nVtKV85PmoDVJq",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1641564474365": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "e3nVtKV85PmoDVJq",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1641977750551": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "2aXaVOpa9OErDPNo",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1642571734018": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "d3CMVV2ChDoKJkGC",
+        "compressZip": false,
+        "JobSystem": "taskFlow",
+        "__version__": "1.0.0"
+      },
+      "1658144932987": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "19vdEu9gpCUI3lt4",
+        "compressZip": false,
+        "JobSystem": "tbb",
+        "__version__": "1.0.0"
+      },
+      "1658212293047": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "082wrzveRH9Jck0H",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1658214642422": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "abP+iU+E5AhKI/Dy",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1658292324283": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "b8pqK+bDNPs6dA4B",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1658295256060": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "3aXooDqDRO86oI3r",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1658297050570": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "38ysT+s4RMXIY7IQ",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1658298915713": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "30dqiYxPJKJoZFCc",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1658300020065": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "30dqiYxPJKJoZFCc",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1658301849993": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "30dqiYxPJKJoZFCc",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1658303086337": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "30dqiYxPJKJoZFCc",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1659073377505": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "30dqiYxPJKJoZFCc",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1659076977137": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "30dqiYxPJKJoZFCc",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      },
+      "1659103221728": {
+        "polyfills": {
+          "asyncFunctions": true
+        },
+        "encrypted": false,
+        "xxteaKey": "30dqiYxPJKJoZFCc",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.4",
+    "options": {
+      "android": {
+        "encrypted": false,
+        "xxteaKey": "30dqiYxPJKJoZFCc",
+        "compressZip": false,
+        "makeAfterBuild": false,
+        "JobSystem": "none"
+      }
+    }
+  }
+}

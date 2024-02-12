@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.Material",
+  "_name": "Lava Material",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "b1418f15-2daa-478e-9962-a7d83ac29201",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": "0",
+  "_defines": [
+    {}
+  ],
+  "_states": [
+    {
+      "priority": 1,
+      "rasterizerState": {
+        "lineWidth": 0.5
+      },
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "mainTexture": {
+        "__uuid__": "c1637987-3797-4747-80fd-275a514351ce@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 148,
+        "g": 53,
+        "b": 0,
+        "a": 255
+      }
+    }
+  ]
+}

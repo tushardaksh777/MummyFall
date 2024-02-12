@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MummyFall</string>
+    <string name="rewardAdId" translatable="false">ca-app-pub-2758519241237532/7046838971</string>
+    <string name="interstitialAdId" translatable="false">ca-app-pub-2758519241237532~3193292243</string>
+</resources>
